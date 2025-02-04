@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter | Andrew Reeves</title>
+    <link>http://localhost:1313/publication_types/chapter/</link>
+      <atom:link href="http://localhost:1313/publication_types/chapter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chapter</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Chapter</title>
+      <link>http://localhost:1313/publication_types/chapter/</link>
+    </image>
+    
+    <item>
+      <title>Public Opinion and Public Support in Crisis Management</title>
+      <link>http://localhost:1313/publication/crisis/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/crisis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polling Place Quality and Access</title>
+      <link>http://localhost:1313/publication/access/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U.S. Presidential Campaigns and Their Impact</title>
+      <link>http://localhost:1313/publication/electionsbib/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/electionsbib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning from Place in the Era of Geolocation</title>
+      <link>http://localhost:1313/publication/geolocation/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/geolocation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Politics of Disaster Relief</title>
+      <link>http://localhost:1313/publication/disasters-review/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/disasters-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Recounts to Measure the Accuracy of Vote Tabulations: Evidence from New Hampshire Elections 1946-2002</title>
+      <link>http://localhost:1313/publication/recounts/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/recounts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

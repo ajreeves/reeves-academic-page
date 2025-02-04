@@ -5,12 +5,116 @@
     <link>http://localhost:1313/publication/</link>
       <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Publications</title>
       <link>http://localhost:1313/publication/</link>
     </image>
+    
+    <item>
+      <title>Democratic values and support for executive power</title>
+      <link>http://localhost:1313/publication/values/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/values/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crime and Presidential Accountability: A Case of Racially Conditioned Issue Ownership</title>
+      <link>http://localhost:1313/publication/crime/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/crime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No Blank Check: Why the Public Dislikes Presidential Power and What It Means for Governing</title>
+      <link>http://localhost:1313/publication/noblankcheck/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/noblankcheck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partisanship, Economic Assessments, and Presidential Accountability</title>
+      <link>http://localhost:1313/publication/transition/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/transition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pass the Buck or the Buck Stops Here? The Public Costs of Claiming and Deflecting Blame in Managing Crises</title>
+      <link>http://localhost:1313/publication/blameclaim/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/blameclaim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconsidering Bellwether Locations in U.S. Presidential Elections</title>
+      <link>http://localhost:1313/publication/bellwether/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bellwether/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unilateral Inaction: Congressional Gridlock, Interbranch Conflict, and Public Evaluations of Executive Power</title>
+      <link>http://localhost:1313/publication/nothing/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nothing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public Opinion and Public Support in Crisis Management</title>
+      <link>http://localhost:1313/publication/crisis/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/crisis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defining Racial and Ethnic Context with Geolocation Data</title>
+      <link>http://localhost:1313/publication/context/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/context/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Unemployment and Voting for President: Uncovering Causal Mechanisms</title>
+      <link>http://localhost:1313/publication/unemployment/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/unemployment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polling Place Quality and Access</title>
+      <link>http://localhost:1313/publication/access/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Urban-Rural Gulf in American Political Behavior</title>
+      <link>http://localhost:1313/publication/urbanrural/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/urbanrural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waiting to Vote in the 2016 Presidential Election: Evidence from a Multi-county Study</title>
+      <link>http://localhost:1313/publication/lines/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lines/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An example preprint / working paper</title>
@@ -26,6 +130,78 @@
 &lt;/div&gt;
 &lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Pedagogical Value of Polling Place Observation By Students</title>
+      <link>http://localhost:1313/publication/polling/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/polling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Public Cost of Unilateral Action</title>
+      <link>http://localhost:1313/publication/constraints/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/constraints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U.S. Presidential Campaigns and Their Impact</title>
+      <link>http://localhost:1313/publication/electionsbib/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/electionsbib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who Benefits from the Party Organization? Evidence from Republican House Members&#39; Attendance at Caucus Meetings</title>
+      <link>http://localhost:1313/publication/caucus/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/caucus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All the President&#39;s Senators: Presidential Co-Partisans and the Allocation of Federal Grants</title>
+      <link>http://localhost:1313/publication/senators/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/senators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attitudes toward Delegation to Presidential Commissions</title>
+      <link>http://localhost:1313/publication/commissions/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/commissions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning from Place in the Era of Geolocation</title>
+      <link>http://localhost:1313/publication/geolocation/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/geolocation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Contextual Determinants of Support for Presidential Power</title>
+      <link>http://localhost:1313/publication/asking/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/asking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unilateral Powers, Public Opinion, and the Presidency</title>
+      <link>http://localhost:1313/publication/unilateral/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/unilateral/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -58,6 +234,70 @@
     </item>
     
     <item>
+      <title>Presidential Particularism and Divide-the-Dollar Politics</title>
+      <link>http://localhost:1313/publication/targeting/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/targeting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presidential Particularism in Disaster Declarations and Military Base Closures</title>
+      <link>http://localhost:1313/publication/prespart/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/prespart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public Opinion toward Presidential Power</title>
+      <link>http://localhost:1313/publication/prespower/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/prespower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Particularistic President: Executive Branch Politics and Political Inequality</title>
+      <link>http://localhost:1313/publication/partpres/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/partpres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Politics of Disaster Relief</title>
+      <link>http://localhost:1313/publication/disasters-review/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/disasters-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Responsive Partisanship: Public Support for the Clinton and Obama Health Care Plans</title>
+      <link>http://localhost:1313/publication/healthcare/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/healthcare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taking the Leap: Voting, Rhetoric, and the Determinants of Electoral Reform</title>
+      <link>http://localhost:1313/publication/leap/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/leap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Electoral College and Presidential Particularism</title>
+      <link>http://localhost:1313/publication/electoralcollege/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/electoralcollege/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An example conference paper</title>
       <link>http://localhost:1313/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
@@ -76,6 +316,78 @@
 &lt;/div&gt;
 &lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Driving Support: Workers, PACs, and Congressional Support of the Auto Industry</title>
+      <link>http://localhost:1313/publication/autos/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/autos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecologies of Unease: Geographic Context and National Economic Evaluations</title>
+      <link>http://localhost:1313/publication/foreclosures/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/foreclosures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Influence of Federal Spending on Presidential Elections</title>
+      <link>http://localhost:1313/publication/spending/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/spending/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Recounts to Measure the Accuracy of Vote Tabulations: Evidence from New Hampshire Elections 1946-2002</title>
+      <link>http://localhost:1313/publication/recounts/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/recounts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Make it Rain? Retrospection and the Attentive Electorate in the Context of Natural Disasters</title>
+      <link>http://localhost:1313/publication/rain/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political Disaster: Unilateral Powers, Electoral Incentives, and Presidential Disaster Declarations</title>
+      <link>http://localhost:1313/publication/fema/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fema/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Job Market&#39;s First Steps: Using Research Tools to Simplify the Process</title>
+      <link>http://localhost:1313/publication/jobs/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jobs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turning Out the Base or Appealing to the Periphery? An Analysis of County-Level Candidate Appearances in the 2008 Presidential Campaign</title>
+      <link>http://localhost:1313/publication/appearances/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/appearances/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Reassessment of `The Methods behind the Madness: Presidential Electoral College Strategies, 1988--1996&#39;</title>
+      <link>http://localhost:1313/publication/reassessment/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/reassessment/</guid>
+      <description></description>
     </item>
     
   </channel>
