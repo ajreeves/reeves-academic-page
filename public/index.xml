@@ -353,7 +353,7 @@
 
 
 
-&lt;div id=&#34;chart-457361928&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-843571629&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -371,7 +371,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-457361928&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-843571629&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -822,14 +822,6 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
-      <title>Public Opinion and Public Support in Crisis Management</title>
-      <link>http://localhost:50675/publication/crisis/</link>
-      <pubDate>Mon, 15 Jun 2020 00:39:44 +0000</pubDate>
-      <guid>http://localhost:50675/publication/crisis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Local Unemployment and Voting for President: Uncovering Causal Mechanisms</title>
       <link>http://localhost:50675/publication/unemployment/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
@@ -1215,6 +1207,14 @@ Parallel 4   :         des6, after des4, 1d
       <link>http://localhost:50675/publication/trump/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:50675/publication/trump/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public Opinion and Public Support in Crisis Management</title>
+      <link>http://localhost:50675/publication/crisis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/crisis/</guid>
       <description></description>
     </item>
     

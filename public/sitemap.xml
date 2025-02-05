@@ -54,14 +54,6 @@
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:50675/publication_types/3/</loc>
-    <lastmod>2024-08-31T00:39:44+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:50675/publication/clerks/</loc>
-    <lastmod>2024-08-31T00:39:44+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:50675/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -150,15 +142,7 @@
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:50675/publication_types/6/</loc>
-    <lastmod>2022-08-31T00:39:44+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:50675/publication/values/</loc>
-    <lastmod>2022-08-31T00:39:44+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:50675/publication/political-geography/</loc>
     <lastmod>2022-08-31T00:39:44+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -190,24 +174,8 @@
     <lastmod>2022-02-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:50675/publication_types/article-journal/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:50675/publication/transition/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:50675/publication/context/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:50675/publication/popularity/</loc>
-    <lastmod>2020-06-15T00:39:44+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:50675/publication/crisis/</loc>
-    <lastmod>2020-06-15T00:39:44+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:50675/publication/unemployment/</loc>
@@ -220,6 +188,10 @@
   </url><url>
     <loc>http://localhost:50675/publication/urbanrural/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:50675/publication_types/6/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:50675/publication/access/</loc>
@@ -394,11 +366,27 @@
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:50675/publication_types/3/</loc>
+    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:50675/publication/reassessment-long/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:50675/publication/popularity/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:50675/publication/clerks/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:50675/publication/political-geography/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:50675/publication/trump/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:50675/publication/crisis/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

@@ -109,14 +109,6 @@
     </item>
     
     <item>
-      <title>Public Opinion and Public Support in Crisis Management</title>
-      <link>http://localhost:50675/publication/crisis/</link>
-      <pubDate>Mon, 15 Jun 2020 00:39:44 +0000</pubDate>
-      <guid>http://localhost:50675/publication/crisis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Local Unemployment and Voting for President: Uncovering Causal Mechanisms</title>
       <link>http://localhost:50675/publication/unemployment/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
@@ -502,6 +494,14 @@
       <link>http://localhost:50675/publication/trump/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:50675/publication/trump/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public Opinion and Public Support in Crisis Management</title>
+      <link>http://localhost:50675/publication/crisis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/crisis/</guid>
       <description></description>
     </item>
     

@@ -5,28 +5,12 @@
     <link>http://localhost:50675/publication_types/6/</link>
       <atom:link href="http://localhost:50675/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
     <description>6</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 31 Aug 2022 00:39:44 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:50675/media/icon_hu_645fa481986063ef.png</url>
       <title>6</title>
       <link>http://localhost:50675/publication_types/6/</link>
     </image>
-    
-    <item>
-      <title>Political Geography, Political Behavior, and Public Opinion</title>
-      <link>http://localhost:50675/publication/political-geography/</link>
-      <pubDate>Wed, 31 Aug 2022 00:39:44 +0000</pubDate>
-      <guid>http://localhost:50675/publication/political-geography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Public Opinion and Public Support in Crisis Management</title>
-      <link>http://localhost:50675/publication/crisis/</link>
-      <pubDate>Mon, 15 Jun 2020 00:39:44 +0000</pubDate>
-      <guid>http://localhost:50675/publication/crisis/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Polling Place Quality and Access</title>
@@ -65,6 +49,22 @@
       <link>http://localhost:50675/publication/recounts/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>http://localhost:50675/publication/recounts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political Geography, Political Behavior, and Public Opinion</title>
+      <link>http://localhost:50675/publication/political-geography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/political-geography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public Opinion and Public Support in Crisis Management</title>
+      <link>http://localhost:50675/publication/crisis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/crisis/</guid>
       <description></description>
     </item>
     
