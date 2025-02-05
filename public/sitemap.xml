@@ -2,391 +2,396 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:53273/event/example/</loc>
+    <loc>http://localhost:53358/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/event/</loc>
+    <loc>http://localhost:53358/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication_types/2/</loc>
+    <loc>http://localhost:53358/publication_types/3/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:53358/publication/clerks/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:53358/publication_types/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:53358/publication/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:53358/publication_types/2/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication_types/</loc>
+    <loc>http://localhost:53358/publication/environment/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/</loc>
-    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:53273/publication/environment/</loc>
-    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:53273/teaching/intro/</loc>
+    <loc>http://localhost:53358/teaching/intro/</loc>
     <lastmod>2024-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/tags/fall2024/</loc>
+    <loc>http://localhost:53358/tags/fall2024/</loc>
     <lastmod>2024-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/tags/</loc>
+    <loc>http://localhost:53358/tags/</loc>
     <lastmod>2024-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/teaching/</loc>
+    <loc>http://localhost:53358/teaching/</loc>
     <lastmod>2024-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/tags/undergrad/</loc>
+    <loc>http://localhost:53358/tags/undergrad/</loc>
     <lastmod>2024-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/teaching/boe/</loc>
+    <loc>http://localhost:53358/teaching/boe/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/guardians/</loc>
+    <loc>http://localhost:53358/publication/guardians/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/projects/</loc>
+    <loc>http://localhost:53358/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/post/get-started/</loc>
+    <loc>http://localhost:53358/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/tags/academic/</loc>
+    <loc>http://localhost:53358/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/post/</loc>
+    <loc>http://localhost:53358/post/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/tags/hugo-blox/</loc>
+    <loc>http://localhost:53358/tags/hugo-blox/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/tags/markdown/</loc>
+    <loc>http://localhost:53358/tags/markdown/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/tags/hugo/</loc>
+    <loc>http://localhost:53358/tags/hugo/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/project/pandas/</loc>
+    <loc>http://localhost:53358/project/pandas/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/project/</loc>
+    <loc>http://localhost:53358/project/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/project/pytorch/</loc>
+    <loc>http://localhost:53358/project/pytorch/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/project/scikit/</loc>
+    <loc>http://localhost:53358/project/scikit/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/tags/second-brain/</loc>
+    <loc>http://localhost:53358/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/tags/wowchemy/</loc>
+    <loc>http://localhost:53358/tags/wowchemy/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/post/second-brain/</loc>
+    <loc>http://localhost:53358/post/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/post/data-visualization/</loc>
+    <loc>http://localhost:53358/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/post/teach-courses/</loc>
+    <loc>http://localhost:53358/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/experience/</loc>
+    <loc>http://localhost:53358/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/tags/hugo-blox-builder/</loc>
+    <loc>http://localhost:53358/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/post/project-management/</loc>
+    <loc>http://localhost:53358/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/attachment/</loc>
+    <loc>http://localhost:53358/publication/attachment/</loc>
     <lastmod>2023-10-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/pasachoff-reply/</loc>
+    <loc>http://localhost:53358/publication/values/</loc>
+    <lastmod>2023-08-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:53358/publication/pasachoff-reply/</loc>
     <lastmod>2023-03-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/</loc>
+    <loc>http://localhost:53358/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/values/</loc>
-    <lastmod>2022-08-31T00:39:44+00:00</lastmod>
+    <loc>http://localhost:53358/publication_types/6/</loc>
+    <lastmod>2022-08-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/bellwether/</loc>
+    <loc>http://localhost:53358/publication/political-geography/</loc>
+    <lastmod>2022-08-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:53358/publication/bellwether/</loc>
     <lastmod>2022-08-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication_types/5/</loc>
+    <loc>http://localhost:53358/publication_types/5/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/noblankcheck/</loc>
+    <loc>http://localhost:53358/publication/noblankcheck/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/nothing/</loc>
+    <loc>http://localhost:53358/publication/nothing/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/transitions/</loc>
+    <loc>http://localhost:53358/publication/transitions/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/blameclaim/</loc>
+    <loc>http://localhost:53358/publication/blameclaim/</loc>
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/crime/</loc>
+    <loc>http://localhost:53358/publication/crime/</loc>
     <lastmod>2022-02-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/context/</loc>
+    <loc>http://localhost:53358/publication/crisis/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:53358/publication/context/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/unemployment/</loc>
+    <loc>http://localhost:53358/publication/unemployment/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/mc-blame/</loc>
+    <loc>http://localhost:53358/publication/mc-blame/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/urbanrural/</loc>
+    <loc>http://localhost:53358/publication/urbanrural/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication_types/6/</loc>
+    <loc>http://localhost:53358/publication/access/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/access/</loc>
+    <loc>http://localhost:53358/publication/lines/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/lines/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:53273/publication/preprint/</loc>
+    <loc>http://localhost:53358/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication_types/article/</loc>
+    <loc>http://localhost:53358/publication_types/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/tags/large-language-models/</loc>
+    <loc>http://localhost:53358/tags/large-language-models/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/caucus/</loc>
+    <loc>http://localhost:53358/news/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:53358/publication/caucus/</loc>
     <lastmod>2018-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/polling/</loc>
+    <loc>http://localhost:53358/publication/polling/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/constraints/</loc>
+    <loc>http://localhost:53358/publication/constraints/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/electionsbib/</loc>
+    <loc>http://localhost:53358/publication/electionsbib/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/mc-puerto-rico/</loc>
+    <loc>http://localhost:53358/publication/mc-puerto-rico/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/senators/</loc>
+    <loc>http://localhost:53358/publication/senators/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/commissions/</loc>
+    <loc>http://localhost:53358/publication/commissions/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/geolocation/</loc>
+    <loc>http://localhost:53358/publication/geolocation/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/asking/</loc>
+    <loc>http://localhost:53358/publication/asking/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/unilateral/</loc>
+    <loc>http://localhost:53358/publication/popularity/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/prespart/</loc>
+    <loc>http://localhost:53358/publication/unilateral/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:53358/publication/prespart/</loc>
     <lastmod>2015-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/prespower/</loc>
+    <loc>http://localhost:53358/publication/prespower/</loc>
     <lastmod>2015-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/partpres/</loc>
+    <loc>http://localhost:53358/publication/partpres/</loc>
     <lastmod>2015-06-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication_types/0/</loc>
+    <loc>http://localhost:53358/publication_types/0/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/milieu/</loc>
+    <loc>http://localhost:53358/publication/milieu/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/targeting/</loc>
+    <loc>http://localhost:53358/publication/targeting/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/disasters-review/</loc>
+    <loc>http://localhost:53358/publication/disasters-review/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/leap/</loc>
+    <loc>http://localhost:53358/publication/leap/</loc>
     <lastmod>2014-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/healthcare/</loc>
+    <loc>http://localhost:53358/publication/healthcare/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/electoralcollege/</loc>
+    <loc>http://localhost:53358/publication/electoralcollege/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/conference-paper/</loc>
+    <loc>http://localhost:53358/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication_types/paper-conference/</loc>
+    <loc>http://localhost:53358/publication_types/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/autos/</loc>
+    <loc>http://localhost:53358/publication/autos/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/unheavenly-review/</loc>
+    <loc>http://localhost:53358/publication/unheavenly-review/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/disasters-reuters/</loc>
+    <loc>http://localhost:53358/publication/disasters-reuters/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/foreclosures/</loc>
+    <loc>http://localhost:53358/publication/foreclosures/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/spending/</loc>
+    <loc>http://localhost:53358/publication/spending/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/recounts/</loc>
+    <loc>http://localhost:53358/publication/recounts/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/rain/</loc>
+    <loc>http://localhost:53358/publication/rain/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/fema/</loc>
+    <loc>http://localhost:53358/publication/fema/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/jobs/</loc>
+    <loc>http://localhost:53358/publication/jobs/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/appearances/</loc>
+    <loc>http://localhost:53358/publication/appearances/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/disunion-review/</loc>
+    <loc>http://localhost:53358/publication/disunion-review/</loc>
     <lastmod>2009-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication_types/7/</loc>
+    <loc>http://localhost:53358/publication_types/7/</loc>
     <lastmod>2008-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/topower/</loc>
+    <loc>http://localhost:53358/publication/topower/</loc>
     <lastmod>2008-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/disasters-latimes-2/</loc>
+    <loc>http://localhost:53358/publication/disasters-latimes-2/</loc>
     <lastmod>2004-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/disasters-latimes-1/</loc>
+    <loc>http://localhost:53358/publication/disasters-latimes-1/</loc>
     <lastmod>2004-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication/reassessment/</loc>
+    <loc>http://localhost:53358/publication/reassessment/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:53273/publication_types/3/</loc>
+    <loc>http://localhost:53358/publication/reassessment-long/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:53273/publication/reassessment-long/</loc>
-    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:53273/publication/popularity/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:53273/publication/clerks/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:53273/publication/political-geography/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:53273/publication/trump/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:53273/publication/crisis/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
