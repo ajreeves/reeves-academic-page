@@ -1,6 +1,6 @@
 ---
 title: "Public Opinion and Public Support in Crisis Management"
-date: In Progress-01-01
+date: 2021-01-01
 authors: ["Zoe Ang", "Benjamin S. Noble", "Andrew Reeves"]
 publication_types: ["6"]
 abstract: ""
