@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Andrew Reeves</title>
+    <link>http://localhost:50675/publication_types/3/</link>
+      <atom:link href="http://localhost:50675/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 Aug 2024 00:39:44 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:50675/media/icon_hu_645fa481986063ef.png</url>
+      <title>3</title>
+      <link>http://localhost:50675/publication_types/3/</link>
+    </image>
+    
+    <item>
+      <title>Elections and Representation in American Municipal Administration</title>
+      <link>http://localhost:50675/publication/clerks/</link>
+      <pubDate>Sat, 31 Aug 2024 00:39:44 +0000</pubDate>
+      <guid>http://localhost:50675/publication/clerks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>By All Means: How Issue Popularity Emboldens Presidential Power</title>
+      <link>http://localhost:50675/publication/popularity/</link>
+      <pubDate>Mon, 15 Jun 2020 00:39:44 +0000</pubDate>
+      <guid>http://localhost:50675/publication/popularity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Reassessment of Presidential Campaign Strategy Formation and Candidate Resource Allocation</title>
+      <link>http://localhost:50675/publication/reassessment-long/</link>
+      <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/reassessment-long/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

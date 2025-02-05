@@ -1,11 +1,11 @@
 ---
-title: Public Opinion toward Presidential Power
-authors:
-- Andrew Reeves
-- Jon C. Rogowski
-date: '2015-01-01'
-publishDate: '2025-02-04T03:28:02.788772Z'
-publication_types:
-- article-journal
-publication: '*Presidential Studies Quarterly*'
+title: "Public Opinion toward Presidential Power"
+date: 2015-10-23
+authors: ["Andrew Reeves", "Jon C. Rogowski"]
+publication_types: ["2"]
+abstract: ""
+featured: false
+publication: "*Presidential Studies Quarterly*"
+url_pdf: "papers/prespower.pdf"
 ---
+

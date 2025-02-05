@@ -1,12 +1,14 @@
 ---
-title: Make it Rain? Retrospection and the Attentive Electorate in the Context of
-  Natural Disasters
-authors:
-- John T. Gasper
-- Andrew Reeves
-date: '2011-01-01'
-publishDate: '2025-02-04T03:28:02.885865Z'
-publication_types:
-- article-journal
-publication: '*American Journal of Political Science*'
+aliases:
+    - /sites/default/files/rain.pdf
+
+title: "Make it Rain? Retrospection and the Attentive Electorate in the Context of Natural Disasters"
+date: 2011-01-01
+authors: ["John T. Gasper", "Andrew Reeves"]
+publication_types: ["2"]
+abstract: ""
+featured: false
+publication: "*American Journal of Political Science*"
+url_pdf: "papers/rain.pdf"
 ---
+

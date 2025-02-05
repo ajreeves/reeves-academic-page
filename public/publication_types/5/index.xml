@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 | Andrew Reeves</title>
+    <link>http://localhost:50675/publication_types/5/</link>
+      <atom:link href="http://localhost:50675/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
+    <description>5</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:50675/media/icon_hu_645fa481986063ef.png</url>
+      <title>5</title>
+      <link>http://localhost:50675/publication_types/5/</link>
+    </image>
+    
+    <item>
+      <title>No Blank Check: The Origins and Consequences of Public Antipathy towards Presidential Power</title>
+      <link>http://localhost:50675/publication/noblankcheck/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/noblankcheck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Particularistic President: Executive Branch Politics and Political Inequality</title>
+      <link>http://localhost:50675/publication/partpres/</link>
+      <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/partpres/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
