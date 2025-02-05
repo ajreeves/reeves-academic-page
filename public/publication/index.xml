@@ -2,22 +2,158 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Andrew Reeves</title>
-    <link>http://localhost:1313/publication/</link>
-      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:50675/publication/</link>
+      <atom:link href="http://localhost:50675/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:50675/media/icon_hu_645fa481986063ef.png</url>
       <title>Publications</title>
-      <link>http://localhost:1313/publication/</link>
+      <link>http://localhost:50675/publication/</link>
     </image>
     
     <item>
+      <title>Rising Seas, Rising Concerns: How Climate Change Vulnerability Shapes Opinions Towards Policy</title>
+      <link>http://localhost:50675/publication/environment/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/environment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guardians at the Gates: Poll Worker Retention in a Challenging Election Environment</title>
+      <link>http://localhost:50675/publication/guardians/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/guardians/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Urban-Rural Divide and Residential Contentment as Antecedents of Political Ideology</title>
+      <link>http://localhost:50675/publication/attachment/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/attachment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partisanship, Trump, and the Normative Implications of Presidential Particularism: A Response to Pasachoff’s Executive Branch Control of Federal Grants</title>
+      <link>http://localhost:50675/publication/pasachoff-reply/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/pasachoff-reply/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Democratic Values and Support for Executive Power</title>
+      <link>http://localhost:50675/publication/values/</link>
+      <pubDate>Wed, 31 Aug 2022 00:39:44 +0000</pubDate>
+      <guid>http://localhost:50675/publication/values/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconsidering Bellwether Locations in U.S. Presidential Elections</title>
+      <link>http://localhost:50675/publication/bellwether/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/bellwether/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No Blank Check: The Origins and Consequences of Public Antipathy towards Presidential Power</title>
+      <link>http://localhost:50675/publication/noblankcheck/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/noblankcheck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unilateral Inaction: Congressional Gridlock, Interbranch Conflict, and Public Evaluations of Executive Power</title>
+      <link>http://localhost:50675/publication/nothing/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/nothing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partisanship, Economic Assessments, and Presidential Accountability</title>
+      <link>http://localhost:50675/publication/transitions/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/transitions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pass the Buck or the Buck Stops Here? The Public Costs of Claiming and Deflecting Blame in Managing Crises</title>
+      <link>http://localhost:50675/publication/blameclaim/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/blameclaim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crime and Presidential Accountability: A Case of Racially Conditioned Issue Ownership</title>
+      <link>http://localhost:50675/publication/crime/</link>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/crime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defining Racial and Ethnic Context with Geolocation Data</title>
+      <link>http://localhost:50675/publication/context/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/context/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Unemployment and Voting for President: Uncovering Causal Mechanisms</title>
+      <link>http://localhost:50675/publication/unemployment/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/unemployment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>If Trump took responsibility for coronavirus missteps, it might actually help him</title>
+      <link>http://localhost:50675/publication/mc-blame/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/mc-blame/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Urban-Rural Gulf in American Political Behavior</title>
+      <link>http://localhost:50675/publication/urbanrural/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/urbanrural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polling Place Quality and Access</title>
+      <link>http://localhost:50675/publication/access/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waiting to Vote in the 2016 Presidential Election: Evidence from a Multi-county Study</title>
+      <link>http://localhost:50675/publication/lines/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An example preprint / working paper</title>
-      <link>http://localhost:1313/publication/preprint/</link>
+      <link>http://localhost:50675/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;http://localhost:1313/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
+      <guid>http://localhost:50675/publication/preprint/</guid>
+      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;http://localhost:50675/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
 &lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -29,39 +165,162 @@
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>http://localhost:1313/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Who Benefits from the Party Organization? Evidence from Republican House Members&#39; Attendance at Caucus Meetings</title>
+      <link>http://localhost:50675/publication/caucus/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/caucus/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Governors as Opportunists: Evidence from Disaster Declaration Requests</title>
-      <link>http://localhost:1313/publication/gasper-2011-fk/</link>
+      <title>Pedagogical Value of Polling Place Observation By Students</title>
+      <link>http://localhost:50675/publication/polling/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/polling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Public Cost of Unilateral Action</title>
+      <link>http://localhost:50675/publication/constraints/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/constraints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U.S. Presidential Campaigns and Their Impact</title>
+      <link>http://localhost:50675/publication/electionsbib/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/electionsbib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Donald Trump&#39;s lukewarm response to Puerto Rico was pretty predictable. Here&#39;s why</title>
+      <link>http://localhost:50675/publication/mc-puerto-rico/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/mc-puerto-rico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All the President&#39;s Senators: Presidential Co-Partisans and the Allocation of Federal Grants</title>
+      <link>http://localhost:50675/publication/senators/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/senators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attitudes toward Delegation to Presidential Commissions</title>
+      <link>http://localhost:50675/publication/commissions/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/commissions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning from Place in the Era of Geolocation</title>
+      <link>http://localhost:50675/publication/geolocation/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/geolocation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Contextual Determinants of Support for Presidential Power</title>
+      <link>http://localhost:50675/publication/asking/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/asking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unilateral Powers, Public Opinion, and the Presidency</title>
+      <link>http://localhost:50675/publication/unilateral/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/unilateral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presidential Particularism in Disaster Declarations and Military Base Closures</title>
+      <link>http://localhost:50675/publication/prespart/</link>
+      <pubDate>Fri, 23 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/prespart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public Opinion toward Presidential Power</title>
+      <link>http://localhost:50675/publication/prespower/</link>
+      <pubDate>Fri, 23 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/prespower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Particularistic President: Executive Branch Politics and Political Inequality</title>
+      <link>http://localhost:50675/publication/partpres/</link>
+      <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/partpres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Milieu (Version 0.8)</title>
+      <link>http://localhost:50675/publication/milieu/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gasper-2011-fk/</guid>
+      <guid>http://localhost:50675/publication/milieu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presidential Particularism and Divide-the-Dollar Politics</title>
+      <link>http://localhost:50675/publication/targeting/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/targeting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Politics of Disaster Relief</title>
+      <link>http://localhost:50675/publication/disasters-review/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/disasters-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taking the Leap: Voting, Rhetoric, and the Determinants of Electoral Reform</title>
+      <link>http://localhost:50675/publication/leap/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/leap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Responsive Partisanship: Public Support for the Clinton and Obama Health Care Plans</title>
+      <link>http://localhost:50675/publication/healthcare/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/healthcare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Electoral College and Presidential Particularism</title>
+      <link>http://localhost:50675/publication/electoralcollege/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/electoralcollege/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example conference paper</title>
-      <link>http://localhost:1313/publication/conference-paper/</link>
+      <link>http://localhost:50675/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/</guid>
+      <guid>http://localhost:50675/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -76,6 +335,174 @@
 &lt;/div&gt;
 &lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Driving Support: Workers, PACs, and Congressional Support of the Auto Industry</title>
+      <link>http://localhost:50675/publication/autos/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/autos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of The Unheavenly Chorus: Unequal Political Voice and the Broken Promise of Democracy by Kay Lehman Schlozman, Sidney Verba, and Henry E. Brady</title>
+      <link>http://localhost:50675/publication/unheavenly-review/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/unheavenly-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Disasters Change Elections</title>
+      <link>http://localhost:50675/publication/disasters-reuters/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/disasters-reuters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecologies of Unease: Geographic Context and National Economic Evaluations</title>
+      <link>http://localhost:50675/publication/foreclosures/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/foreclosures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Influence of Federal Spending on Presidential Elections</title>
+      <link>http://localhost:50675/publication/spending/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/spending/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Recounts to Measure the Accuracy of Vote Tabulations: Evidence from New Hampshire Elections 1946-2002</title>
+      <link>http://localhost:50675/publication/recounts/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/recounts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Make it Rain? Retrospection and the Attentive Electorate in the Context of Natural Disasters</title>
+      <link>http://localhost:50675/publication/rain/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/rain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political Disaster: Unilateral Powers, Electoral Incentives, and Presidential Disaster Declarations</title>
+      <link>http://localhost:50675/publication/fema/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/fema/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Job Market&#39;s First Steps: Using Research Tools to Simplify the Process</title>
+      <link>http://localhost:50675/publication/jobs/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/jobs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turning Out the Base or Appealing to the Periphery? An Analysis of County-Level Candidate Appearances in the 2008 Presidential Campaign</title>
+      <link>http://localhost:50675/publication/appearances/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/appearances/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of The State of Disunion: Regional Sources of Modern American Partisanship by Nicole Mellow</title>
+      <link>http://localhost:50675/publication/disunion-review/</link>
+      <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/disunion-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To Power through Reform: The Development of Party through Electoral Reform in the Victorian House of Commons</title>
+      <link>http://localhost:50675/publication/topower/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/topower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Florida Disaster Aid Can Help Bush</title>
+      <link>http://localhost:50675/publication/disasters-latimes-2/</link>
+      <pubDate>Fri, 01 Oct 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/disasters-latimes-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plucking Votes From Disasters: The electoral clout of a state can sway presidents on aid</title>
+      <link>http://localhost:50675/publication/disasters-latimes-1/</link>
+      <pubDate>Sat, 01 May 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/disasters-latimes-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Reassessment of `The Methods behind the Madness: Presidential Electoral College Strategies, 1988--1996&#39;</title>
+      <link>http://localhost:50675/publication/reassessment/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/reassessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Reassessment of Presidential Campaign Strategy Formation and Candidate Resource Allocation</title>
+      <link>http://localhost:50675/publication/reassessment-long/</link>
+      <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/reassessment-long/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>By All Means: How Issue Popularity Emboldens Presidential Power</title>
+      <link>http://localhost:50675/publication/popularity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/popularity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elections and Representation in American Municipal Administration</title>
+      <link>http://localhost:50675/publication/clerks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/clerks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political Geography, Political Behavior, and Public Opinion</title>
+      <link>http://localhost:50675/publication/political-geography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/political-geography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political Regimes and Institutional Support: How Partisanship Affects Attitudes toward Presidential Power</title>
+      <link>http://localhost:50675/publication/trump/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/trump/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public Opinion and Public Support in Crisis Management</title>
+      <link>http://localhost:50675/publication/crisis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50675/publication/crisis/</guid>
+      <description></description>
     </item>
     
   </channel>
