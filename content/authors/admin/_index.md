@@ -46,7 +46,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=xPSRkX4AAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-7217-6601
   - icon: brands/bluesky
     url: https://bsky.app/profile/ajreeves.bsky.social
 
