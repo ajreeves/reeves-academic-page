@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>0 | Andrew Reeves</title>
-    <link>http://localhost:1313/publication_types/0/</link>
-      <atom:link href="http://localhost:1313/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:64395/publication_types/0/</link>
+      <atom:link href="http://localhost:64395/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_9abe6d5f9300b5ff.png</url>
+      <url>http://localhost:64395/media/icon_hu_9abe6d5f9300b5ff.png</url>
       <title>0</title>
-      <link>http://localhost:1313/publication_types/0/</link>
+      <link>http://localhost:64395/publication_types/0/</link>
     </image>
     
     <item>
       <title>Milieu (Version 0.8)</title>
-      <link>http://localhost:1313/publication/milieu/</link>
+      <link>http://localhost:64395/publication/milieu/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/milieu/</guid>
+      <guid>http://localhost:64395/publication/milieu/</guid>
       <description></description>
     </item>
     

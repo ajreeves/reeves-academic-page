@@ -31,12 +31,12 @@ header:
   navbar:
     enable: true
     blox: "navbar"
+    align: "right"
     fixed_to_top: true
-    show_search: true
-    show_theme_chooser: true
+    show_search: false
+    show_theme_chooser: false
     logo:
-      text: "Andrew Reeves"
-    
+      text: "Andrew Reeves"    
 
 # Site footer
 footer:

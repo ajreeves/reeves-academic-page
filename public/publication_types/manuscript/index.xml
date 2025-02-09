@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuscript | Andrew Reeves</title>
+    <link>http://localhost:64395/publication_types/manuscript/</link>
+      <atom:link href="http://localhost:64395/publication_types/manuscript/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manuscript</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:64395/media/icon_hu_9abe6d5f9300b5ff.png</url>
+      <title>Manuscript</title>
+      <link>http://localhost:64395/publication_types/manuscript/</link>
+    </image>
+    
+    <item>
+      <title>Elections and Representation in American Municipal Administration</title>
+      <link>http://localhost:64395/publication/clerks/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:64395/publication/clerks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

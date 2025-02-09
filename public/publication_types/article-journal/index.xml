@@ -2,21 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Article-Journal | Andrew Reeves</title>
-    <link>http://localhost:50675/publication_types/article-journal/</link>
-      <atom:link href="http://localhost:50675/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:64395/publication_types/article-journal/</link>
+      <atom:link href="http://localhost:64395/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:50675/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:64395/media/icon_hu_9abe6d5f9300b5ff.png</url>
       <title>Article-Journal</title>
-      <link>http://localhost:50675/publication_types/article-journal/</link>
+      <link>http://localhost:64395/publication_types/article-journal/</link>
     </image>
     
     <item>
-      <title>Partisanship, Economic Assessments, and Presidential Accountability</title>
-      <link>http://localhost:50675/publication/transition/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50675/publication/transition/</guid>
+      <title>Rising Seas, Rising Concerns: How Climate Change Vulnerability Shapes Opinions Towards Policy</title>
+      <link>http://localhost:64395/publication/environment/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:64395/publication/environment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guardians at the Gates: Poll Worker Retention in a Challenging Election Environment</title>
+      <link>http://localhost:64395/publication/guardians/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:64395/publication/guardians/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Urban-Rural Divide and Residential Contentment as Antecedents of Political Ideology</title>
+      <link>http://localhost:64395/publication/attachment/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:64395/publication/attachment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Contextual Determinants of Support for Presidential Power</title>
+      <link>http://localhost:64395/publication/asking/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:64395/publication/asking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Electoral College and Presidential Particularism</title>
+      <link>http://localhost:64395/publication/electoralcollege/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:64395/publication/electoralcollege/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecologies of Unease: Geographic Context and National Economic Evaluations</title>
+      <link>http://localhost:64395/publication/foreclosures/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:64395/publication/foreclosures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Job Market&#39;s First Steps: Using Research Tools to Simplify the Process</title>
+      <link>http://localhost:64395/publication/jobs/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:64395/publication/jobs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turning Out the Base or Appealing to the Periphery? An Analysis of County-Level Candidate Appearances in the 2008 Presidential Campaign</title>
+      <link>http://localhost:64395/publication/appearances/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:64395/publication/appearances/</guid>
       <description></description>
     </item>
     
