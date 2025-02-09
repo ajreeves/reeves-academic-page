@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: http://localhost:64395/sitemap.xml
+Sitemap: https://andrewreeves.org/sitemap.xml
