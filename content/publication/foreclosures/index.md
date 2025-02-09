@@ -1,7 +1,7 @@
 ---
 title: "Ecologies of Unease: Geographic Context and National Economic Evaluations"
 date: 2012-01-01
-authors: ["Andrew Reeves", "James G. Gimpel"]
+authors: [admin, "James G. Gimpel"]
 publication_types: ["article-journal"]
 abstract: "Assessment of the nation’s economic performance has been repeatedly
 linked to voters’ decision-making in U.S. presidential elections. Here we inquire as

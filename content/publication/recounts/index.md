@@ -1,7 +1,7 @@
 ---
 title: "Using Recounts to Measure the Accuracy of Vote Tabulations: Evidence from New Hampshire Elections 1946-2002"
 date: 2012-01-01
-authors: ["Stephen D. Ansolabehere", "Andrew Reeves"]
+authors: ["Stephen D. Ansolabehere", admin]
 publication_types: ["chapter"]
 abstract: ""
 featured: false

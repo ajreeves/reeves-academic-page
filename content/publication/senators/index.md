@@ -1,7 +1,7 @@
 ---
 title: "All the President's Senators: Presidential Co-Partisans and the Allocation of Federal Grants"
 date: 2017-01-01
-authors: ["Dino Christenson", "Douglas Kriner", "Andrew Reeves"]
+authors: ["Dino Christenson", "Douglas Kriner", admin]
 publication_types: ["article-journal"]
 abstract: ""
 featured: false
