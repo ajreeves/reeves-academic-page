@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article-Newspaper | Andrew Reeves</title>
+    <link>http://localhost:64395/publication_types/article-newspaper/</link>
+      <atom:link href="http://localhost:64395/publication_types/article-newspaper/index.xml" rel="self" type="application/rss+xml" />
+    <description>Article-Newspaper</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:64395/media/icon_hu_9abe6d5f9300b5ff.png</url>
+      <title>Article-Newspaper</title>
+      <link>http://localhost:64395/publication_types/article-newspaper/</link>
+    </image>
+    
+    <item>
+      <title>Plucking Votes From Disasters: The electoral clout of a state can sway presidents on aid</title>
+      <link>http://localhost:64395/publication/disasters-latimes-1/</link>
+      <pubDate>Sat, 01 May 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:64395/publication/disasters-latimes-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
