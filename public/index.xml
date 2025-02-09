@@ -2,63 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrew Reeves</title>
-    <link>http://localhost:53358/</link>
-      <atom:link href="http://localhost:53358/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrew Reeves</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:53358/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:1313/media/icon_hu_9abe6d5f9300b5ff.png</url>
       <title>Andrew Reeves</title>
-      <link>http://localhost:53358/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>http://localhost:53358/event/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/event/example/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/reference/content-types/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Elections and Representation in American Municipal Administration</title>
-      <link>http://localhost:53358/publication/clerks/</link>
+      <link>http://localhost:1313/publication/clerks/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/clerks/</guid>
+      <guid>http://localhost:1313/publication/clerks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rising Seas, Rising Concerns: How Climate Change Vulnerability Shapes Opinions Towards Policy</title>
-      <link>http://localhost:53358/publication/environment/</link>
+      <link>http://localhost:1313/publication/environment/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/environment/</guid>
+      <guid>http://localhost:1313/publication/environment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>American Politics</title>
-      <link>http://localhost:53358/teaching/intro/</link>
+      <link>http://localhost:1313/teaching/intro/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/teaching/intro/</guid>
+      <guid>http://localhost:1313/teaching/intro/</guid>
       <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;The Biden presidency concludes amidst international turmoil, the fallout from a global pandemic, and increasing economic dissatisfaction among Americans. American institutions are being tested by a polarized political environment, regular mass protests, and are still adjusting from the former and possibly next president, who challenged many political norms. We will explore how we got here and consider the future of American politics.&lt;/p&gt;
 &lt;p&gt;The first part of the class deals with the institutional building blocks of the American political system. After we discuss the principles of political science, we’ll discuss the operation and evolution of the legislative, judicial, and executive branches. In the second part of the class, we’ll consider the things that happen just outside the purview of the U.S. Constitution, like public opinion, the media, elections, political parties, and interest groups. Finally, we’ll go back to the beginning and discuss the founding and the core principles of civil rights, civil liberties, and federalism.&lt;/p&gt;
 &lt;h2 id=&#34;learn-more&#34;&gt;Learn More&lt;/h2&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ZcPzyOfqNKQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
 
@@ -69,9 +49,9 @@
     
     <item>
       <title>Business of Elections</title>
-      <link>http://localhost:53358/teaching/boe/</link>
+      <link>http://localhost:1313/teaching/boe/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/teaching/boe/</guid>
+      <guid>http://localhost:1313/teaching/boe/</guid>
       <description>&lt;p&gt;
 
 
@@ -94,7 +74,7 @@
                /teaching/boe/reeves-teaching_hu_d805b67ed6224e64.webp 400w,
                /teaching/boe/reeves-teaching_hu_5770b2c9ce427493.webp 760w,
                /teaching/boe/reeves-teaching_hu_2e51777f0c9ee079.webp 1200w&#34;
-               src=&#34;http://localhost:53358/teaching/boe/reeves-teaching_hu_d805b67ed6224e64.webp&#34;
+               src=&#34;http://localhost:1313/teaching/boe/reeves-teaching_hu_d805b67ed6224e64.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -110,162 +90,170 @@
     
     <item>
       <title>Guardians at the Gates: Poll Worker Retention in a Challenging Election Environment</title>
-      <link>http://localhost:53358/publication/guardians/</link>
+      <link>http://localhost:1313/publication/guardians/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/guardians/</guid>
+      <guid>http://localhost:1313/publication/guardians/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:53358/experience/</link>
+      <link>http://localhost:1313/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/experience/</guid>
+      <guid>http://localhost:1313/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Urban-Rural Divide and Residential Contentment as Antecedents of Political Ideology</title>
-      <link>http://localhost:53358/publication/attachment/</link>
+      <link>http://localhost:1313/publication/attachment/</link>
       <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/attachment/</guid>
+      <guid>http://localhost:1313/publication/attachment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Democratic Values and Support for Executive Power</title>
-      <link>http://localhost:53358/publication/values/</link>
+      <link>http://localhost:1313/publication/values/</link>
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/values/</guid>
+      <guid>http://localhost:1313/publication/values/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Partisanship, Trump, and the Normative Implications of Presidential Particularism: A Response to Pasachoff’s Executive Branch Control of Federal Grants</title>
-      <link>http://localhost:53358/publication/pasachoff-reply/</link>
+      <link>http://localhost:1313/publication/pasachoff-reply/</link>
       <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/pasachoff-reply/</guid>
+      <guid>http://localhost:1313/publication/pasachoff-reply/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Political Geography, Political Behavior, and Public Opinion</title>
-      <link>http://localhost:53358/publication/political-geography/</link>
+      <link>http://localhost:1313/publication/political-geography/</link>
       <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/political-geography/</guid>
+      <guid>http://localhost:1313/publication/political-geography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reconsidering Bellwether Locations in U.S. Presidential Elections</title>
-      <link>http://localhost:53358/publication/bellwether/</link>
+      <link>http://localhost:1313/publication/bellwether/</link>
       <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/bellwether/</guid>
+      <guid>http://localhost:1313/publication/bellwether/</guid>
       <description></description>
     </item>
     
     <item>
       <title>No Blank Check: The Origins and Consequences of Public Antipathy towards Presidential Power</title>
-      <link>http://localhost:53358/publication/noblankcheck/</link>
+      <link>http://localhost:1313/publication/noblankcheck/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/noblankcheck/</guid>
+      <guid>http://localhost:1313/publication/noblankcheck/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unilateral Inaction: Congressional Gridlock, Interbranch Conflict, and Public Evaluations of Executive Power</title>
-      <link>http://localhost:53358/publication/nothing/</link>
+      <link>http://localhost:1313/publication/nothing/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/nothing/</guid>
+      <guid>http://localhost:1313/publication/nothing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Partisanship, Economic Assessments, and Presidential Accountability</title>
-      <link>http://localhost:53358/publication/transitions/</link>
+      <link>http://localhost:1313/publication/transitions/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/transitions/</guid>
+      <guid>http://localhost:1313/publication/transitions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pass the Buck or the Buck Stops Here? The Public Costs of Claiming and Deflecting Blame in Managing Crises</title>
-      <link>http://localhost:53358/publication/blameclaim/</link>
+      <link>http://localhost:1313/publication/blameclaim/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/blameclaim/</guid>
+      <guid>http://localhost:1313/publication/blameclaim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crime and Presidential Accountability: A Case of Racially Conditioned Issue Ownership</title>
-      <link>http://localhost:53358/publication/crime/</link>
+      <link>http://localhost:1313/publication/crime/</link>
       <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/crime/</guid>
+      <guid>http://localhost:1313/publication/crime/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Public Opinion and Public Support in Crisis Management</title>
-      <link>http://localhost:53358/publication/crisis/</link>
+      <link>http://localhost:1313/publication/crisis/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/crisis/</guid>
+      <guid>http://localhost:1313/publication/crisis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Defining Racial and Ethnic Context with Geolocation Data</title>
-      <link>http://localhost:53358/publication/context/</link>
+      <link>http://localhost:1313/publication/context/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/context/</guid>
+      <guid>http://localhost:1313/publication/context/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Local Unemployment and Voting for President: Uncovering Causal Mechanisms</title>
-      <link>http://localhost:53358/publication/unemployment/</link>
+      <link>http://localhost:1313/publication/unemployment/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/unemployment/</guid>
+      <guid>http://localhost:1313/publication/unemployment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>If Trump took responsibility for coronavirus missteps, it might actually help him</title>
-      <link>http://localhost:53358/publication/mc-blame/</link>
+      <link>http://localhost:1313/publication/mc-blame/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/mc-blame/</guid>
+      <guid>http://localhost:1313/publication/mc-blame/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Urban-Rural Gulf in American Political Behavior</title>
-      <link>http://localhost:53358/publication/urbanrural/</link>
+      <link>http://localhost:1313/publication/urbanrural/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/urbanrural/</guid>
+      <guid>http://localhost:1313/publication/urbanrural/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Polling Place Quality and Access</title>
-      <link>http://localhost:53358/publication/access/</link>
+      <link>http://localhost:1313/publication/access/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/access/</guid>
+      <guid>http://localhost:1313/publication/access/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Waiting to Vote in the 2016 Presidential Election: Evidence from a Multi-county Study</title>
-      <link>http://localhost:53358/publication/lines/</link>
+      <link>http://localhost:1313/publication/lines/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/lines/</guid>
+      <guid>http://localhost:1313/publication/lines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>http://localhost:53358/publication/preprint/</link>
+      <link>http://localhost:1313/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;http://localhost:53358/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
+      <guid>http://localhost:1313/publication/preprint/</guid>
+      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;http://localhost:1313/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
 &lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -277,291 +265,170 @@
     </item>
     
     <item>
-      <title>In the News</title>
-      <link>http://localhost:53358/news/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/news/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://slate.com/news-and-politics/2024/10/us-presidential-election-swing-state-politics-harming-democracy.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; David Faris. October 14, 2024. &amp;ldquo;Swing-State Politics Is Rotting Our Brains and Harming Democracy.&amp;rdquo; &lt;em&gt;Slate&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.reuters.com/world/us/wake-hurricane-trump-seeks-boost-his-presidential-bid-2024-10-01/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tim Reid and Helen Coster. October 1, 2024. &amp;ldquo;Trump seeks to boost presidential bid in Hurricane Helene&amp;rsquo;s wake, analysts say.&amp;rdquo; &lt;em&gt;Reuters&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.newsweek.com/donald-trump-next-debate-presidential-election-1951987&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Theo Burman. September 11, 2024. &amp;ldquo;Should Donald Trump Agree to Another Debate? Political Experts Weigh In.&amp;rdquo; &lt;em&gt;Newsweek&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.latimes.com/opinion/story/2024-06-25/biden-trump-debate-presidential-campaign&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrew Reeves. June 25, 2024. &amp;ldquo;Opinion: Biden and Trump will talk big at the debate, but how much could either really do?&amp;rdquo; &lt;em&gt;The Los Angeles Times&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.columbiatribune.com/story/news/politics/2024/02/18/columbia-political-social-climate-heavily-influenced-university-of-missouri/72588606007/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Roger McKinney. February 18, 2024. &amp;ldquo;Columbia&amp;rsquo;s political, social climate influenced heavily by Mizzou&amp;rdquo; &lt;em&gt;Columbia Daily Tribune&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://source.wustl.edu/2024/01/old-research-new-readers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Diane Toroian Keaggy.  January 12, 2024. &amp;ldquo;Old research, new readers: A closer look at some of the most-read research stories from years past&amp;rdquo; &lt;em&gt;The Source&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://artsci.wustl.edu/ampersand/when-presidential-power-meets-public-opinion&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shawn Ballard. October 5, 2022. &amp;ldquo;When presidential power meets public opinion.&amp;rdquo; &lt;em&gt;The Ampersand&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.voanews.com/a/biden-to-survey-hurricane-ian-damage-in-florida/6776635.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jorge Agobian, and Patsy Widakuswara. October 5, 2022. &amp;ldquo;Biden Surveys Hurricane Damage in Florida Amid Tension With Governor.&amp;rdquo; &lt;em&gt;Voice of America&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.npr.org/2022/10/01/1126239235/politics-natural-disasters-desantis-hurricane-ian&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Domenico Montanaro. October 1, 2022. &amp;ldquo;How local and national leaders are tested by major natural disasters.&amp;rdquo; &lt;em&gt;NPR&lt;/em&gt;.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://apnews.com/article/biden-inflation-covid-health-greg-abbott-9a3cba6cd4bf72f2c86fdd539b120bf6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Josh Boak. August 20, 2022. &amp;ldquo;For Republican governors, all economic success is local.&amp;rdquo; &lt;em&gt;AP&lt;/em&gt;.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://source.wustl.edu/2022/04/perception-matters-how-fear-about-crime-impacts-presidential-approval/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sara Savat. April 18, 2022. &amp;ldquo;Perception matters: How fear about crime impacts presidential approval.&amp;rdquo; &lt;em&gt;The Source&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.washingtonpost.com/politics/2022/05/26/republicans-democrats-midterms-elections-ballot-counting/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Charles Stewart III. May 28, 2022. &amp;ldquo;Republicans want to hand-count paper ballots. That’s less accurate.&amp;rdquo; &lt;em&gt;Washington Post&amp;rsquo;s the Monkeycage Blog&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thedailybeast.com/devastating-tornadoes-give-biden-one-last-chance-to-bridge-red-blue-rift&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eleanor Clift. December 14, 2021. &amp;ldquo;Devastating Tornadoes Give Biden One Last Chance to Bridge Red-Blue Rift.&amp;rdquo; &lt;em&gt;The Daily Beast&lt;/em&gt;.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.nybooks.com/daily/2021/12/10/why-the-us-is-a-failed-democratic-state/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lawrence Lessig. December 10, 2021. &amp;ldquo;Why the US Is a Failed Democratic State&amp;rdquo; &lt;em&gt;New York Review of Books&lt;/em&gt;.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://source.wustl.edu/2021/10/partisanship-the-economy-and-presidential-accountability/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sara Savat. October 21, 2021. Partisanship, the economy and presidential accountability. &lt;em&gt;The Source&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.factcheck.org/2021/10/scicheck-white-house-and-hhs-employees-arent-exempt-from-vaccine-mandate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Saranac Hale Spencer. October 7, 2021. &amp;ldquo;SciCheck’s COVID-19/Vaccination Project.&amp;rdquo; &lt;em&gt;FactCheck.org&lt;/em&gt;.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://theconversation.com/bidens-supreme-court-commission-probably-wont-sway-public-opinion-159658&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Ryan Miller and Andrew Reeves. June 16, 2021.&amp;ldquo;Biden’s Supreme Court commission probably won’t sway public opinion.&amp;rdquo; &lt;em&gt;The Conversation&lt;/em&gt;.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://source.wustl.edu/2021/04/washu-expert-executive-orders-come-at-great-cost/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sarah Savat. April 8, 2021. &amp;ldquo;Executive orders come ‘at great cost’.&amp;rdquo; &lt;em&gt;The Source.&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.theatlantic.com/politics/archive/2021/02/what-texas-energy-crisis-means-democrats/618127/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elaine Godfrey. February 24, 2021. &amp;ldquo;Texas’s Disaster Is Over. The Fallout Is Just Beginning.&amp;rdquo; &lt;em&gt;The Atlantic&lt;/em&gt;.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://source.wustl.edu/2021/02/new-course-studies-presidential-campaigns-in-tumultuous-year/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julie Kennedy. February 22, 2021. &amp;ldquo;New course studies the business of politics.&amp;rdquo; &lt;em&gt;Washington Magazine&lt;/em&gt;.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.azcentral.com/story/news/politics/arizona/2020/10/18/president-donald-trump-set-visit-prescott-tucson-heres-why/3683937001/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ronald J. Hansen. October 18.2020. &amp;ldquo;President Donald Trump is set to visit Prescott, Tucson. Here&amp;rsquo;s why.&amp;quot;&lt;em&gt;Arizona Republic.&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://source.wustl.edu/2020/10/2020-election-talk-congressional-races/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sara Savat. October 16, 2020. &amp;ldquo;2020 election talk: Congressional races.&amp;rdquo; &lt;em&gt;The Source.&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.wsj.com/articles/trumps-targeted-moves-seek-to-shore-up-support-for-gop-senators-11600520400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrew Duehren and  Siobhan Hughes. September 19, 2020. &amp;ldquo;Trump’s Targeted Moves Seek to Shore Up Support for GOP Senators&amp;rdquo; &lt;em&gt;The Wall Street Journal&lt;/em&gt;.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.bloomberg.com/news/articles/2020-04-14/trump-re-election-imperiled-as-coronavirus-hits-key-states&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gregory Korte and Matthew Boesler. April 14, 2020. &amp;ldquo;Trump’s Key 2020 States Reel Under Twin Blows of Virus, Jobb Loss.&amp;rdquo; &lt;em&gt;Bloomberg.&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.theatlantic.com/ideas/archive/2020/04/most-important-number-trumps-re-election-chances/609376/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Annie Lowrey. April 3, 2020. &amp;ldquo;The Economy is Collapsing. So Are Trump’s Reelection Chances.&amp;rdquo; &lt;em&gt;The Atlantic.&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.stltoday.com/opinion/columnists/andrew-reeves-this-pandemic-is-a-test-for-leaders-voters-do-the-grading/article_80a024d0-8128-5d4a-809a-122d594e517a.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrew Reeves. April 1, 2020. &amp;ldquo;This pandemic is a test for leaders. Voters do the grading.&amp;rdquo; &lt;em&gt;Saint Louis Dispatch&lt;/em&gt;.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.washingtonpost.com/politics/2020/03/26/if-trump-took-responsibility-coronavirus-missteps-it-might-actually-help-him/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David R. Miller and Andrew Reeves. March 26, 2020. &amp;ldquo;If Trump took responsibility for coronavirus missteps, it might actually help him&amp;rdquo; &lt;em&gt;Washington Post.&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.washingtonpost.com/politics/2020/03/19/cdc-isnt-favoring-trump-states-with-coronavirus-spending/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nicholas G. Napolio. March 19, 2020. &amp;ldquo;The CDC isn’t favoring Trump states with coronavirus spending.&amp;rdquo; &lt;em&gt;Washington Post.&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.washingtonpost.com/politics/2020/03/09/3-ways-coronavirus-could-end-trumps-presidency/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michael Tesler. March 9, 2020. &amp;ldquo;3 ways the coronavirus could end Trump’s presidency.&amp;rdquo; &lt;em&gt;Washington Post.&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://cityobservatory.org/the-week-observed-2020_feb28/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joe Cortright.  &amp;ldquo;The Week Observed, February 28, 2020.&amp;rdquo; &lt;/a&gt;&lt;em&gt;The City Commentary.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mail.google.com/mail/u/0/#search/german&amp;#43;sara/FMfcgxwGDWsqqZZLDCxxXlPSzfcTnXfk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Von Philipp Nagels. February 25, 2020.  &amp;ldquo;Die Nähe zu einer Stadt beeinflusst die politische Gesinnung.&amp;rdquo; &lt;em&gt;Die Welt.&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dailyyonder.com/distance-and-density-not-just-demographics-affect-urban-rural-vote/2020/02/24/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;James G. Gimpel, Nathan Lovin, Bryant Moy and Andrew Reeves, &amp;ldquo;Distance and Density, Not Just Demographics, Affect Urban-Rural Vote.&amp;rdquo; &lt;em&gt;Daily Yonder.&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://source.wustl.edu/2020/02/the-divide-between-us-urban-rural-political-differences-rooted-in-geography/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sara Savat. February 18, 2020. The divide between us: Urban-rural political differences rooted in geography. &lt;em&gt;The Source.&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://review.chicagobooth.edu/economics/2019/article/geolocation-data-show-black-voters-wait-longer-vote&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brett Nelson. December, 30, 2019. &amp;ldquo;Geolocation data show black voters wait longer to vote.&amp;rdquo; &lt;em&gt;Chicago Booth Review.&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;J&lt;a href=&#34;https://reason.com/2019/12/05/republicans-are-learning-to-love-unconstrained-executive-power-and-so-are-democrats/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;.D. Tuccille. December 5, 2019. &amp;ldquo;Republicans Are Learning to Love Unconstrained Executive Power.&amp;rdquo; &lt;em&gt;Reason.&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.politico.com/magazine/story/2019/06/21/reparations-hearing-2020-candidates-congress-227194&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Theodore R. Johnson. June 21, 2019. &amp;ldquo;Reparations Won’t Start With Congress. A President Needs to Do That.&amp;rdquo; &lt;em&gt;Politico.&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://chicagopolicyreview.org/2019/03/01/going-solo-public-backlash-to-unilateralism/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nathanael Monier-Dana. March 1, 2019. &amp;ldquo;Going Solo: Public Backlash to Unilateralism.&amp;rdquo; &lt;em&gt;Chicago Policy Review.&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.vox.com/mischiefs-of-faction/2018/4/17/17248488/trumps-presidency-challenge-legitimacy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia Azari. April 17, 2018. &amp;ldquo;The challenge of Trump’s presidency is legitimacy, not power.&amp;rdquo; &lt;em&gt;Vox&lt;/em&gt;.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.nytimes.com/2018/02/08/opinion/trump-democracy-midterm-elections.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Thomas Edsall. February 8, 2018. &amp;ldquo;Trump’s Tool Kit Does Not Include the Constitution.&amp;rdquo; &lt;em&gt;New York Times&lt;/em&gt;.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.economist.com/news/united-states/21730430-federal-aid-sent-puerto-rico-fits-longstanding-pattern-counties-voted&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;October 19, 2017. &amp;ldquo;Counties that voted for the president get more in disaster relief,&amp;rdquo; &lt;em&gt;The Economist.&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.washingtonpost.com/news/monkey-cage/wp/2017/10/02/puerto-rican-residents-dont-vote-for-president-or-congress-could-that-affect-trumps-response-to-hurricane-maria/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrew Reeves. October 2, 2017. &amp;ldquo;Donald Trump’s lukewarm response to Puerto Rico was pretty predictable. Here’s why,&amp;rdquo; &lt;em&gt;Washington Post&lt;/em&gt;.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://fivethirtyeight.com/features/disaster-politics-can-get-in-the-way-of-disaster-preparedness/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oliver Roeder and Andrea Jones-Rooy. August 31, 2017. &amp;ldquo;Disaster Politics Can Get In The Way Of Disaster Preparedness,&amp;rdquo; FiveThirtyEight.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.washingtonpost.com/news/the-fix/wp/2017/08/28/mixing-politics-and-hurricanes-trump-might-want-to-tread-carefully/?utm_term=.a89fdfdff750&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amber Phillips. August 28, 2017. &amp;ldquo;Mixing politics and hurricanes? Trump might want to tread carefully,&amp;rdquo; &lt;em&gt;Washington Post&lt;/em&gt;.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.washingtonpost.com/news/monkey-cage/wp/2017/01/20/every-president-is-a-minority-leader-trump-will-be-too/?utm_term=.6f60a9fb97ba&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrew Rudalevige. January, 20, 2017. Every president is a minority leader. Trump will be, too. &lt;em&gt;Washington Post.&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.washingtonpost.com/news/monkey-cage/wp/2016/12/05/the-wisconsin-recount-may-have-a-surprise-in-store-after-all/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stephen Ansolabehere, Barry C. Burden, Kenneth R. Mayer, and Charles Stewart III. December 5, 2016. &amp;ldquo;The Wisconsin recount may have a surprise in store after all,&amp;rdquo; &lt;em&gt;Washington Post.&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.usnews.com/news/articles/2016-09-30/the-partisan-politics-of-disaster-relief&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Susan Milligan. September 30, 2016. &amp;ldquo;Playing Games With a Disaster: Communities suffer as Congress feuds over emergency relief.&amp;rdquo; &lt;em&gt;US News and World Report.&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.brookings.edu/blogs/fixgov/posts/2016/05/18-congress-zika-emergency-funding-reynolds&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Molly E. Reynolds. May 18, 2016. &amp;ldquo;What emergency Zika funding tells us about congressional dysfunction,&amp;rdquo; FIXGOV: Making Government Work, &lt;em&gt;Brookings&lt;/em&gt;.__&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.vox.com/2016/2/5/10923304/bernie-sanders-general-election&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jeff Stein. February 5, 2016. &amp;ldquo;We asked 6 political scientists if Bernie Sanders would have a shot in a general election,&amp;rdquo; &lt;em&gt;Vox&lt;/em&gt;.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.vox.com/2016/2/3/10899242/americans-limit-presidents&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jeff Stein. February 3, 2016. &amp;ldquo;Americans want limits on their presidents — even the ones they voted for,&amp;rdquo; &lt;em&gt;Vox&lt;/em&gt;.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.washingtonpost.com/news/the-fix/wp/2016/01/23/7-politicians-whose-careers-were-broken-or-made-by-massive-storms/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amber Phillips. January 23, 2016. &amp;ldquo;7 politicians whose careers were broken — or made — by massive storms,&amp;rdquo; &lt;em&gt;The Washington Posts’s The Fix&lt;/em&gt;.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ampersand.wustl.edu/the-particularistic-president&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Claire Navarro. 2015. &amp;ldquo;The Particularistic President: Political scientist Andrew Reeves reveals when and why presidents play favorites,&amp;rdquo; &lt;em&gt;The Ampersand.&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.nytimes.com/2015/07/26/opinion/sunday/frank-bruni-the-millions-of-marginalized-americans.html?_r=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frank Bruni, January 25, 2015, The Millions of Marginalized Americans, &lt;em&gt;New York Times&lt;/em&gt; Sunday Review.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.accuweather.com/en/weather-news/politician-snow-storm-response-sway-voters/43721974&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;POLL: Does a Politician’s Reaction to Major Snowstorms Influence Your Vote?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blogs.lse.ac.uk/usappblog/2015/04/06/presidents-create-political-inequality-by-allocating-federal-dollars-to-electorally-useful-constituencies-across-the-country/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Presidents create political inequality by allocating Federal dollars to electorally useful constituencies across the country | USAPP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://news.wustl.edu/news/Pages/27950.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wash U Expert: Politics of disaster relief spurred aggressive preparations for East Coast storm | Newsroom | Washington University in St. Louis&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.nydailynews.com/news/politics/political-perils-snowstorms-article-1.2093358&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Warren: The political perils of snowstorms&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.npr.org/blogs/itsallpolitics/2013/09/17/223389847/in-emergencies-politicians-are-expected-to-master-disaster&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;In Emergencies, Politicians Are Expected To Master Disaster&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.economist.com/blogs/economist-explains/2014/04/economist-explains-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Economist explains: Why elections are bad for you | The Economist&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://wonkwire.rollcall.com/2013/08/30/abstract-week-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abstract of the Week – Taegan Goddard’s Wonk Wire&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.washingtonpost.com/blogs/wonkblog/wp/2013/08/29/do-presidents-really-reward-the-states-that-voted-them-into-office/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Do presidents really reward the states that voted them into office?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.washingtonpost.com/blogs/wonkblog/wp/2013/05/26/the-political-fallout-of-natural-disasters/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The political fallout of natural disasters&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://reason.com/archives/2013/01/12/get-states-off-the-federal-dole&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Get States off the Federal Dole – Reason.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.rutlandherald.com/article/20120826/NEWS03/708269845/1326/NEWS20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;‘All disasters are political’ But which politicians stand to win and lose the most? : Rutland Herald Online&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.psychologytoday.com/blog/the-power-places/201211/how-the-stress-disaster-translates-i-voted&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How the Stress of Disaster Translates to &amp;ldquo;I Voted&amp;rdquo; | Psychology Today&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.advancingafreesociety.org/2012-in-perspective/one-week-remaining/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;One Week Remaining | Advancing a Free Society&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.livescience.com/24506-hurricane-sandy-may-affect-election-outcome.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hurricane Sandy May Affect Election Outcome | LiveScience&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cbc.ca/thecurrent/2012/11/01/sandys-impact-on-the-us-election/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sandy’s impact on the US Election | The Current with Anna Maria Tremonti | CBC Radio&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://politiken.dk/udland/ECE1798422/stormen-sandy-kan-hjaelpe-obama-til-genvalg/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stormen Sandy kan hjælpe Obama til genvalg – Politiken.dk&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.wbur.org/2012/10/31/obama-sandy-incumbent-disasters&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Do Disasters Help Incumbents? Survey Says: Yes | WBUR&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.linkiesta.it/uragano-sally-elezioni-obama&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Obama ha reagito bene, ma su Twitter Sandy premia Romney | Linkiesta.it&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.sciencepresse.qc.ca/actualite/2012/10/30/quand-president-soccupe-dun-ouragan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quand un président s’occupe d’un ouragan | Agence Science-Presse&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.lemonde.fr/elections-americaines/article/2012/10/30/difficile-de-mesurer-l-impact-de-sandy-sur-l-election_1782979_829254.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sandy peut-il avoir un impact sur l’élection présidentielle ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.oyetimes.com/news/america/31113-federal-disaster-response-keeping-an-eye-on-the-president-and-the-governors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Federal Disaster Response Keeping An Eye on the President and the Governors | Oye Times&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cnn.com/2012/10/31/politics/natural-disaster-election-impact/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Can elections be blown off course by natural disasters? – CNN.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.ria.ru/world/20121031/177064625.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Incumbent Obama Seizing Mantle of Rescuer-in-Chief | World | RIA Novosti&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.deseretnews.com/article/865565507/Stormy-election-Hurricane-Sandy-may-impact-voter-behavior-change-voters-minds.html?pg=all&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stormy election: Hurricane Sandy may impact voter behavior, change voters’ minds | Deseret News&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.yakima-herald.com/blogs/checks-balances/posts/hurricane-sandy-could-influence-the-outcome-of-the-presidential-election&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hurricane Sandy could influence the outcome of the presidential election | Yakima Herald-Republic Online&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.salon.com/2012/10/30/how_weather_affects_elections/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How weather affects elections – Salon.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.post-gazette.com/stories/news/us/disastrous-storms-can-have-impact-on-race-for-president-659820/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disastrous storms can have impact on race for president – Pittsburgh Post-Gazette&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.ria.ru/world/20121030/177031220.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;In US Elections, Weather Can Make Waves at Polls | World | RIA Novosti&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.thedailybeast.com/articles/2012/10/29/how-president-obama-will-handle-hurricane-sandy.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How President Obama Will Handle Hurricane Sandy – The Daily Beast&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.theatlanticwire.com/politics/2012/10/sandy-most-important-swing-voter/58470/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sandy Is the Most Important Swing Voter – Politics – The Atlantic Wire&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.slate.com/blogs/the_slatest/2012/10/29/hurricane_sandy_s_political_impact_obama_s_response_to_the_storm_could_change.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hurricane Sandy’s Political Impact: Obama’s response to the storm could change voters’ mind.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://andrewsullivan.thedailybeast.com/2012/10/sandys-politics.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sandy’s Politics – The Dish | By Andrew Sullivan – The Daily Beast&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.aljazeera.com/indepth/opinion/2012/10/20121029123514551821.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The way the wind blows: The effects of Hurricane Sandy on the US elections – Opinion – Al Jazeera English&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.motherjones.com/politics/2012/10/hurricane-sandy-2012-election-obama-romney&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How Hurricane Sandy Could Swing the Election | Mother Jones&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://themonkeycage.org/blog/2012/10/28/how-hurricane-sandy-could-matter-on-election-day/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How Hurricane Sandy Could Matter on Election Day — The Monkey Cage&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.psmag.com/politics/hurricane-sandy-and-the-presidential-election-48738/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hurricane Sandy and the Presidential Election –&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.washingtonpost.com/blogs/election-2012/wp/2012/10/26/how-hurricane-sandy-could-affect-the-election/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How Hurricane Sandy could affect the election&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://swampland.time.com/2012/09/28/how-obama-is-leveraging-the-power-of-the-incumbency-in-swing-states/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How Obama Is Leveraging the Power of the Incumbency in Swing States | Swampland | TIME.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://journalistsresource.org/studies/politics/elections/seven-big-questions-2012-presidential-election-research-roundup/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Seven big questions about the 2012 presidential election: Research roundup – Journalist’s Resource: Research for Reporting, from Harvard Shorenstein Center&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.nationalaffairs.com/blog/detail/findings-a-daily-roundup/socially-grounded&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blog &amp;gt; National Affairs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.nationalreview.com/corner/316440&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hail to the Pork – By Veronique de Rugy – The Corner – National Review Online&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://onlinelibrary.wiley.com/subject/code/000101/homepage/virtual_issue__representation_and_renewal_in_new_orleans.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Political Science – Virtual Issue: Representation and Renewal in New Orleans – Wiley Online Library&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.washingtonpost.com/blogs/ezra-klein/wp/2012/07/28/do-voters-punish-politicians-for-natural-disasters-contd/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Do voters punish politicians for natural disasters? (cont’d)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.washingtonpost.com/blogs/ezra-klein/wp/2012/07/24/could-the-drought-cost-obama-votes-this-fall/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Could the drought cost Obama votes this fall?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mrzine.monthlyreview.org/2005/hoover021205.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michael Hoover, &amp;ldquo;Rowboat Federalism: The Politics of U.S. Disaster Relief; Part 2: Politics: The Electoral Connection and Beyond&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blogs.utexas.edu/straussinstitute/2012/02/07/the-weather-can-influence-gubernatorial-and-presidential-re-election/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;» The weather can influence gubernatorial and presidential re-election Strauss Institute: Did You Know?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.nationalaffairs.com/blog/detail/findings-a-daily-roundup/naturalized&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blog &amp;gt; National Affairs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.nationalaffairs.com/blog/detail/findings-a-daily-roundup/political-history&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blog &amp;gt; National Affairs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://harvardmagazine.com/2004/03/the-politics-of-disaster.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Politics of Disaster | Harvard Magazine Mar-Apr 2004&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://themonkeycage.org/blog/2012/06/28/some-predictions-on-the-supreme-courts-decision/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Some Predictions on the Supreme Court’s Decision — The Monkey Cage&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://themonkeycage.org/blog/2012/07/02/supreme-courts-aca-decision-polarizes-doesnt-persuade/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supreme Court’s ACA Decision Polarizes, Doesn’t Persuade — The Monkey Cage&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://themonkeycage.org/blog/2012/06/25/self-interest-and-attitudes-toward-health-care-reform/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Self-Interest and Attitudes toward Health Care Reform — The Monkey Cage&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.theage.com.au/opinion/politics/disasters-really-can-make-or-break-leaders-20110215-1aurt.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cyclone Yasi | Anna Bligh Versus Julia Gillard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://themonkeycage.org/blog/2011/05/10/6764/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Targeting Strategies in 2008, and Lessons for 2012 — The Monkey Cage&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.usnews.com/news/blogs/washington-whispers/2011/05/10/gop-taking-cues-from-obama-for-2012-white-house-campaign&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GOP Taking Cues from Obama for 2012 White House Campaign – Washington Whispers (usnews.com)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://themonkeycage.org/blog/2012/03/17/getting-gas-prices-right/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Getting Gas Prices Right — The Monkey Cage&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.nytimes.com/2012/03/17/us/politics/gas-prices-matter-to-voters-but-they-matter-little-to-votes.html?_r=3&amp;amp;src=tp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gas Prices Matter to Voters, but They Matter Little to Votes – NYTimes.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://phys.org/news/2012-06-voters-bypass-reward-federal.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Voters bypass their own representatives and reward Presidents for federal spending, new research shows&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sunlightfoundation.com/blog/2012/06/14/local-spending/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How local spending helps incumbent presidents (and why it will be harder to know this in the future) – Sunlight Foundation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Who Benefits from the Party Organization? Evidence from Republican House Members&#39; Attendance at Caucus Meetings</title>
-      <link>http://localhost:53358/publication/caucus/</link>
+      <link>http://localhost:1313/publication/caucus/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/caucus/</guid>
+      <guid>http://localhost:1313/publication/caucus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pedagogical Value of Polling Place Observation By Students</title>
-      <link>http://localhost:53358/publication/polling/</link>
+      <link>http://localhost:1313/publication/polling/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/polling/</guid>
+      <guid>http://localhost:1313/publication/polling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Public Cost of Unilateral Action</title>
-      <link>http://localhost:53358/publication/constraints/</link>
+      <link>http://localhost:1313/publication/constraints/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/constraints/</guid>
+      <guid>http://localhost:1313/publication/constraints/</guid>
       <description></description>
     </item>
     
     <item>
       <title>U.S. Presidential Campaigns and Their Impact</title>
-      <link>http://localhost:53358/publication/electionsbib/</link>
+      <link>http://localhost:1313/publication/electionsbib/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/electionsbib/</guid>
+      <guid>http://localhost:1313/publication/electionsbib/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Donald Trump&#39;s lukewarm response to Puerto Rico was pretty predictable. Here&#39;s why</title>
-      <link>http://localhost:53358/publication/mc-puerto-rico/</link>
+      <link>http://localhost:1313/publication/mc-puerto-rico/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/mc-puerto-rico/</guid>
+      <guid>http://localhost:1313/publication/mc-puerto-rico/</guid>
       <description></description>
     </item>
     
     <item>
       <title>All the President&#39;s Senators: Presidential Co-Partisans and the Allocation of Federal Grants</title>
-      <link>http://localhost:53358/publication/senators/</link>
+      <link>http://localhost:1313/publication/senators/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/senators/</guid>
+      <guid>http://localhost:1313/publication/senators/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Attitudes toward Delegation to Presidential Commissions</title>
-      <link>http://localhost:53358/publication/commissions/</link>
+      <link>http://localhost:1313/publication/commissions/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/commissions/</guid>
+      <guid>http://localhost:1313/publication/commissions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning from Place in the Era of Geolocation</title>
-      <link>http://localhost:53358/publication/geolocation/</link>
+      <link>http://localhost:1313/publication/geolocation/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/geolocation/</guid>
+      <guid>http://localhost:1313/publication/geolocation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Contextual Determinants of Support for Presidential Power</title>
-      <link>http://localhost:53358/publication/asking/</link>
+      <link>http://localhost:1313/publication/asking/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/asking/</guid>
+      <guid>http://localhost:1313/publication/asking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>By All Means: How Issue Popularity Emboldens Presidential Power</title>
-      <link>http://localhost:53358/publication/popularity/</link>
+      <link>http://localhost:1313/publication/popularity/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/popularity/</guid>
+      <guid>http://localhost:1313/publication/popularity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unilateral Powers, Public Opinion, and the Presidency</title>
-      <link>http://localhost:53358/publication/unilateral/</link>
+      <link>http://localhost:1313/publication/unilateral/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/unilateral/</guid>
+      <guid>http://localhost:1313/publication/unilateral/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Presidential Particularism in Disaster Declarations and Military Base Closures</title>
-      <link>http://localhost:53358/publication/prespart/</link>
+      <link>http://localhost:1313/publication/prespart/</link>
       <pubDate>Fri, 23 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/prespart/</guid>
+      <guid>http://localhost:1313/publication/prespart/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Public Opinion toward Presidential Power</title>
-      <link>http://localhost:53358/publication/prespower/</link>
+      <link>http://localhost:1313/publication/prespower/</link>
       <pubDate>Fri, 23 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/prespower/</guid>
+      <guid>http://localhost:1313/publication/prespower/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Particularistic President: Executive Branch Politics and Political Inequality</title>
-      <link>http://localhost:53358/publication/partpres/</link>
+      <link>http://localhost:1313/publication/partpres/</link>
       <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/partpres/</guid>
+      <guid>http://localhost:1313/publication/partpres/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Milieu (Version 0.8)</title>
-      <link>http://localhost:53358/publication/milieu/</link>
+      <link>http://localhost:1313/publication/milieu/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/milieu/</guid>
+      <guid>http://localhost:1313/publication/milieu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Presidential Particularism and Divide-the-Dollar Politics</title>
-      <link>http://localhost:53358/publication/targeting/</link>
+      <link>http://localhost:1313/publication/targeting/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/targeting/</guid>
+      <guid>http://localhost:1313/publication/targeting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Politics of Disaster Relief</title>
-      <link>http://localhost:53358/publication/disasters-review/</link>
+      <link>http://localhost:1313/publication/disasters-review/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/disasters-review/</guid>
+      <guid>http://localhost:1313/publication/disasters-review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Taking the Leap: Voting, Rhetoric, and the Determinants of Electoral Reform</title>
-      <link>http://localhost:53358/publication/leap/</link>
+      <link>http://localhost:1313/publication/leap/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/leap/</guid>
+      <guid>http://localhost:1313/publication/leap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Responsive Partisanship: Public Support for the Clinton and Obama Health Care Plans</title>
-      <link>http://localhost:53358/publication/healthcare/</link>
+      <link>http://localhost:1313/publication/healthcare/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/healthcare/</guid>
+      <guid>http://localhost:1313/publication/healthcare/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Electoral College and Presidential Particularism</title>
-      <link>http://localhost:53358/publication/electoralcollege/</link>
+      <link>http://localhost:1313/publication/electoralcollege/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/electoralcollege/</guid>
+      <guid>http://localhost:1313/publication/electoralcollege/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example conference paper</title>
-      <link>http://localhost:53358/publication/conference-paper/</link>
+      <link>http://localhost:1313/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/conference-paper/</guid>
+      <guid>http://localhost:1313/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -580,129 +447,129 @@
     
     <item>
       <title>Driving Support: Workers, PACs, and Congressional Support of the Auto Industry</title>
-      <link>http://localhost:53358/publication/autos/</link>
+      <link>http://localhost:1313/publication/autos/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/autos/</guid>
+      <guid>http://localhost:1313/publication/autos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Review of The Unheavenly Chorus: Unequal Political Voice and the Broken Promise of Democracy by Kay Lehman Schlozman, Sidney Verba, and Henry E. Brady</title>
-      <link>http://localhost:53358/publication/unheavenly-review/</link>
+      <link>http://localhost:1313/publication/unheavenly-review/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/unheavenly-review/</guid>
+      <guid>http://localhost:1313/publication/unheavenly-review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Disasters Change Elections</title>
-      <link>http://localhost:53358/publication/disasters-reuters/</link>
+      <link>http://localhost:1313/publication/disasters-reuters/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/disasters-reuters/</guid>
+      <guid>http://localhost:1313/publication/disasters-reuters/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ecologies of Unease: Geographic Context and National Economic Evaluations</title>
-      <link>http://localhost:53358/publication/foreclosures/</link>
+      <link>http://localhost:1313/publication/foreclosures/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/foreclosures/</guid>
+      <guid>http://localhost:1313/publication/foreclosures/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Influence of Federal Spending on Presidential Elections</title>
-      <link>http://localhost:53358/publication/spending/</link>
+      <link>http://localhost:1313/publication/spending/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/spending/</guid>
+      <guid>http://localhost:1313/publication/spending/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Recounts to Measure the Accuracy of Vote Tabulations: Evidence from New Hampshire Elections 1946-2002</title>
-      <link>http://localhost:53358/publication/recounts/</link>
+      <link>http://localhost:1313/publication/recounts/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/recounts/</guid>
+      <guid>http://localhost:1313/publication/recounts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Make it Rain? Retrospection and the Attentive Electorate in the Context of Natural Disasters</title>
-      <link>http://localhost:53358/publication/rain/</link>
+      <link>http://localhost:1313/publication/rain/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/rain/</guid>
+      <guid>http://localhost:1313/publication/rain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Political Disaster: Unilateral Powers, Electoral Incentives, and Presidential Disaster Declarations</title>
-      <link>http://localhost:53358/publication/fema/</link>
+      <link>http://localhost:1313/publication/fema/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/fema/</guid>
+      <guid>http://localhost:1313/publication/fema/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Job Market&#39;s First Steps: Using Research Tools to Simplify the Process</title>
-      <link>http://localhost:53358/publication/jobs/</link>
+      <link>http://localhost:1313/publication/jobs/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/jobs/</guid>
+      <guid>http://localhost:1313/publication/jobs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Turning Out the Base or Appealing to the Periphery? An Analysis of County-Level Candidate Appearances in the 2008 Presidential Campaign</title>
-      <link>http://localhost:53358/publication/appearances/</link>
+      <link>http://localhost:1313/publication/appearances/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/appearances/</guid>
+      <guid>http://localhost:1313/publication/appearances/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Review of The State of Disunion: Regional Sources of Modern American Partisanship by Nicole Mellow</title>
-      <link>http://localhost:53358/publication/disunion-review/</link>
+      <link>http://localhost:1313/publication/disunion-review/</link>
       <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/disunion-review/</guid>
+      <guid>http://localhost:1313/publication/disunion-review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>To Power through Reform: The Development of Party through Electoral Reform in the Victorian House of Commons</title>
-      <link>http://localhost:53358/publication/topower/</link>
+      <link>http://localhost:1313/publication/topower/</link>
       <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/topower/</guid>
+      <guid>http://localhost:1313/publication/topower/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Florida Disaster Aid Can Help Bush</title>
-      <link>http://localhost:53358/publication/disasters-latimes-2/</link>
+      <link>http://localhost:1313/publication/disasters-latimes-2/</link>
       <pubDate>Fri, 01 Oct 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/disasters-latimes-2/</guid>
+      <guid>http://localhost:1313/publication/disasters-latimes-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plucking Votes From Disasters: The electoral clout of a state can sway presidents on aid</title>
-      <link>http://localhost:53358/publication/disasters-latimes-1/</link>
+      <link>http://localhost:1313/publication/disasters-latimes-1/</link>
       <pubDate>Sat, 01 May 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/disasters-latimes-1/</guid>
+      <guid>http://localhost:1313/publication/disasters-latimes-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Reassessment of `The Methods behind the Madness: Presidential Electoral College Strategies, 1988--1996&#39;</title>
-      <link>http://localhost:53358/publication/reassessment/</link>
+      <link>http://localhost:1313/publication/reassessment/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/reassessment/</guid>
+      <guid>http://localhost:1313/publication/reassessment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Reassessment of Presidential Campaign Strategy Formation and Candidate Resource Allocation</title>
-      <link>http://localhost:53358/publication/reassessment-long/</link>
+      <link>http://localhost:1313/publication/reassessment-long/</link>
       <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53358/publication/reassessment-long/</guid>
+      <guid>http://localhost:1313/publication/reassessment-long/</guid>
       <description></description>
     </item>
     

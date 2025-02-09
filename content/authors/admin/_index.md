@@ -69,6 +69,7 @@ education:
 
 
 ---
+## Welcome
 
 Andrew Reeves is the director of the [Weidenbaum Center on the Economy, Government, and Public Policy](http://wc.wustl.edu) and professor of [political science](http://polisci.wustl.edu) at [Washington University in St. Louis](http://www.wustl.edu). He is also a Visiting Fellow at the [Hoover Institution](https://www.hoover.org) and an associate of the [Taylor Geospatial Institute](https://taylorgeospatial.org/). At WashU, he is an affiliate ofthe [Center for the Environment](https://environment.wustl.edu/), the [Division of Computational and Data Sciences](https://datasciences.wustl.edu), and the [Center for the Study of Race, Ethnicity & Equity](https://cre2.wustl.edu/). He has previously held research fellowships at the [Hoover Institution](https://www.hoover.org) at [Stanford University](https://stanford.edu) and at the [Center for the Study of American Politics](https://csap.yale.edu) at [Yale University](https://yale.edu).
 

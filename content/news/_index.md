@@ -1,18 +1,8 @@
 ---
 title: In the News
-summary: Andrew Reeves's Research in the News.
-date: "2018-06-28T00:00:00Z"
-
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
-
-# Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
+date: "2025-02-09T02:55:53Z"
 ---
+
 * [ David Faris. October 14, 2024. "Swing-State Politics Is Rotting Our Brains and Harming Democracy." _Slate_](https://slate.com/news-and-politics/2024/10/us-presidential-election-swing-state-politics-harming-democracy.html)
 * [Tim Reid and Helen Coster. October 1, 2024. "Trump seeks to boost presidential bid in Hurricane Helene's wake, analysts say." _Reuters_](https://www.reuters.com/world/us/wake-hurricane-trump-seeks-boost-his-presidential-bid-2024-10-01/)
 * [Theo Burman. September 11, 2024. "Should Donald Trump Agree to Another Debate? Political Experts Weigh In." _Newsweek_](https://www.newsweek.com/donald-trump-next-debate-presidential-election-1951987)
@@ -124,3 +114,5 @@ header:
 *   [Gas Prices Matter to Voters, but They Matter Little to Votes – NYTimes.com](http://www.nytimes.com/2012/03/17/us/politics/gas-prices-matter-to-voters-but-they-matter-little-to-votes.html?_r=3&src=tp)
 *   [Voters bypass their own representatives and reward Presidents for federal spending, new research shows](http://phys.org/news/2012-06-voters-bypass-reward-federal.html)
 *   [How local spending helps incumbent presidents (and why it will be harder to know this in the future) – Sunlight Foundation](http://sunlightfoundation.com/blog/2012/06/14/local-spending/)
+
+---

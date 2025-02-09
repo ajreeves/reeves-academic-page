@@ -1,0 +1,64 @@
+/* Import fonts from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather:wght@300;400;700&family=Roboto+Mono:wght@400;700&display=swap');
+
+:root {
+    --washu-green: #215732;  /* Define a custom color */
+}
+
+
+
+html {
+    font-family: "Merriweather", serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Lato", sans-serif;
+    font-weight: normal !important;
+    color: #215732; /* Replace with your desired color */
+}
+
+/* Navigation */
+nav {
+    font-family: "Lato", sans-serif;
+}
+
+/* Monospace Elements */
+code, pre {
+    font-family: "Roboto Mono", monospace;
+}
+
+.text-3xl {
+    font-family: "Lato", sans-serif;
+    font-weight: normal;
+    color: #215732; /* Replace with your desired color */
+}
+
+.mb-2 a div {
+    font-family: "Lato", sans-serif; /* Replace with your desired font */
+    font-weight: normal;
+    color: #215732; /* Replace with your desired color */
+}
+
+.mb-1 {
+    font-weight: normal;
+    color: #215732; /* Replace with your desired color */
+}
+
+a {
+    text-decoration: none !important; /* No underline by default */
+    color: #215732 !important; /* Always WashU Green */
+}
+
+/* Underline on hover */
+a:hover {
+    text-decoration: none !important;
+    color: #971B2F !important; /* Keep it the same green */
+}
+
+.navbar-brand{
+    color: #215732 !important; /* Keep it the same green */
+}
