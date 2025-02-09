@@ -5,7 +5,11 @@ authors: ["Stephen D. Ansolabehere", admin]
 publication_types: ["chapter"]
 abstract: ""
 featured: false
-publication: "*Confirming Elections: Creating Confidence and Integrity through Election Auditing*"
+editor:
+- R. Michael Alvaraez
+- Lonna Atkeson
+- Thad E. Hall
+container-title: "*Confirming Elections: Creating Confidence and Integrity through Election Auditing*"
 url_pdf: "papers/recounts.pdf"
 ---
 

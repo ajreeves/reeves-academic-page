@@ -2,303 +2,303 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://andrewreeves.org/news/</loc>
+    <loc>http://localhost:64395/news/</loc>
     <lastmod>2025-02-09T02:55:53+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/contact/</loc>
+    <loc>http://localhost:64395/contact/</loc>
     <lastmod>2025-02-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/clerks/</loc>
+    <loc>http://localhost:64395/publication/clerks/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication_types/manuscript/</loc>
+    <loc>http://localhost:64395/publication_types/manuscript/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication_types/</loc>
+    <loc>http://localhost:64395/publication_types/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/</loc>
+    <loc>http://localhost:64395/publication/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication_types/article-journal/</loc>
+    <loc>http://localhost:64395/publication_types/article-journal/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/environment/</loc>
+    <loc>http://localhost:64395/publication/environment/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/teaching/intro/</loc>
+    <loc>http://localhost:64395/teaching/intro/</loc>
     <lastmod>2024-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/tags/fall2024/</loc>
+    <loc>http://localhost:64395/tags/fall2024/</loc>
     <lastmod>2024-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/tags/</loc>
+    <loc>http://localhost:64395/tags/</loc>
     <lastmod>2024-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/teaching/</loc>
+    <loc>http://localhost:64395/teaching/</loc>
     <lastmod>2024-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/tags/undergrad/</loc>
+    <loc>http://localhost:64395/tags/undergrad/</loc>
     <lastmod>2024-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/teaching/boe/</loc>
+    <loc>http://localhost:64395/teaching/boe/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/guardians/</loc>
+    <loc>http://localhost:64395/publication/guardians/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/attachment/</loc>
+    <loc>http://localhost:64395/publication/attachment/</loc>
     <lastmod>2023-10-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/values/</loc>
+    <loc>http://localhost:64395/publication/values/</loc>
     <lastmod>2023-08-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/pasachoff-reply/</loc>
+    <loc>http://localhost:64395/publication/pasachoff-reply/</loc>
     <lastmod>2023-03-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/</loc>
+    <loc>http://localhost:64395/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication_types/chapter/</loc>
+    <loc>http://localhost:64395/publication_types/chapter/</loc>
     <lastmod>2022-08-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/political-geography/</loc>
+    <loc>http://localhost:64395/publication/political-geography/</loc>
     <lastmod>2022-08-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/bellwether/</loc>
+    <loc>http://localhost:64395/publication/bellwether/</loc>
     <lastmod>2022-08-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication_types/book/</loc>
+    <loc>http://localhost:64395/publication_types/book/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/noblankcheck/</loc>
+    <loc>http://localhost:64395/publication/noblankcheck/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/nothing/</loc>
+    <loc>http://localhost:64395/publication/nothing/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/transitions/</loc>
+    <loc>http://localhost:64395/publication/transitions/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/blameclaim/</loc>
+    <loc>http://localhost:64395/publication/blameclaim/</loc>
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/crime/</loc>
+    <loc>http://localhost:64395/publication/crime/</loc>
     <lastmod>2022-02-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/crisis/</loc>
+    <loc>http://localhost:64395/publication/crisis/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/context/</loc>
+    <loc>http://localhost:64395/publication/context/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/unemployment/</loc>
+    <loc>http://localhost:64395/publication/unemployment/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication_types/article-newspaper/</loc>
+    <loc>http://localhost:64395/publication_types/article-newspaper/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/mc-blame/</loc>
+    <loc>http://localhost:64395/publication/mc-blame/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/urbanrural/</loc>
+    <loc>http://localhost:64395/publication/urbanrural/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/access/</loc>
+    <loc>http://localhost:64395/publication/access/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/lines/</loc>
+    <loc>http://localhost:64395/publication/lines/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/caucus/</loc>
+    <loc>http://localhost:64395/publication/caucus/</loc>
     <lastmod>2018-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/polling/</loc>
+    <loc>http://localhost:64395/publication/polling/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/constraints/</loc>
+    <loc>http://localhost:64395/publication/constraints/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/electionsbib/</loc>
+    <loc>http://localhost:64395/publication/electionsbib/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/mc-puerto-rico/</loc>
+    <loc>http://localhost:64395/publication/mc-puerto-rico/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/senators/</loc>
+    <loc>http://localhost:64395/publication/senators/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/commissions/</loc>
+    <loc>http://localhost:64395/publication/commissions/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/geolocation/</loc>
+    <loc>http://localhost:64395/publication/geolocation/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/asking/</loc>
+    <loc>http://localhost:64395/publication/asking/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/popularity/</loc>
+    <loc>http://localhost:64395/publication/popularity/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/unilateral/</loc>
+    <loc>http://localhost:64395/publication/unilateral/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/prespart/</loc>
+    <loc>http://localhost:64395/publication/prespart/</loc>
     <lastmod>2015-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/prespower/</loc>
+    <loc>http://localhost:64395/publication/prespower/</loc>
     <lastmod>2015-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/partpres/</loc>
+    <loc>http://localhost:64395/publication/partpres/</loc>
     <lastmod>2015-06-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/milieu/</loc>
+    <loc>http://localhost:64395/publication/milieu/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/targeting/</loc>
+    <loc>http://localhost:64395/publication/targeting/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication_types/software/</loc>
+    <loc>http://localhost:64395/publication_types/software/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/disasters-review/</loc>
+    <loc>http://localhost:64395/publication/disasters-review/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/leap/</loc>
+    <loc>http://localhost:64395/publication/leap/</loc>
     <lastmod>2014-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/healthcare/</loc>
+    <loc>http://localhost:64395/publication/healthcare/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/electoralcollege/</loc>
+    <loc>http://localhost:64395/publication/electoralcollege/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/autos/</loc>
+    <loc>http://localhost:64395/publication/autos/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/unheavenly-review/</loc>
+    <loc>http://localhost:64395/publication/unheavenly-review/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication_types/review-book/</loc>
+    <loc>http://localhost:64395/publication_types/review-book/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/disasters-reuters/</loc>
+    <loc>http://localhost:64395/publication/disasters-reuters/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/foreclosures/</loc>
+    <loc>http://localhost:64395/publication/foreclosures/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/spending/</loc>
+    <loc>http://localhost:64395/publication/spending/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/recounts/</loc>
+    <loc>http://localhost:64395/publication/recounts/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/rain/</loc>
+    <loc>http://localhost:64395/publication/rain/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/fema/</loc>
+    <loc>http://localhost:64395/publication/fema/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/jobs/</loc>
+    <loc>http://localhost:64395/publication/jobs/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/appearances/</loc>
+    <loc>http://localhost:64395/publication/appearances/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/disunion-review/</loc>
+    <loc>http://localhost:64395/publication/disunion-review/</loc>
     <lastmod>2009-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication_types/7/</loc>
+    <loc>http://localhost:64395/publication_types/7/</loc>
     <lastmod>2008-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/topower/</loc>
+    <loc>http://localhost:64395/publication/topower/</loc>
     <lastmod>2008-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/disasters-latimes-2/</loc>
+    <loc>http://localhost:64395/publication/disasters-latimes-2/</loc>
     <lastmod>2004-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/disasters-latimes-1/</loc>
+    <loc>http://localhost:64395/publication/disasters-latimes-1/</loc>
     <lastmod>2004-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/reassessment/</loc>
+    <loc>http://localhost:64395/publication/reassessment/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andrewreeves.org/publication/reassessment-long/</loc>
+    <loc>http://localhost:64395/publication/reassessment-long/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
