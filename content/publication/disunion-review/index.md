@@ -1,5 +1,5 @@
 ---
-reviewed-title: "The State of Disunion: Regional Sources of Modern American Partisanship by Nicole Mellow"
+title: "Review of The State of Disunion: Regional Sources of Modern American Partisanship by Nicole Mellow"
 date: 2009-02-01
 authors: [admin]
 publication_types: [review-book]
