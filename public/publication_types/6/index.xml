@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>6 | Andrew Reeves</title>
-    <link>http://localhost:64395/publication_types/6/</link>
-      <atom:link href="http://localhost:64395/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://andrewreeves.org/publication_types/6/</link>
+      <atom:link href="https://andrewreeves.org/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
     <description>6</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 31 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:64395/media/icon_hu_9abe6d5f9300b5ff.png</url>
+      <url>https://andrewreeves.org/media/icon_hu_9abe6d5f9300b5ff.png</url>
       <title>6</title>
-      <link>http://localhost:64395/publication_types/6/</link>
+      <link>https://andrewreeves.org/publication_types/6/</link>
     </image>
     
     <item>
       <title>Political Geography, Political Behavior, and Public Opinion</title>
-      <link>http://localhost:64395/publication/political-geography/</link>
+      <link>https://andrewreeves.org/publication/political-geography/</link>
       <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64395/publication/political-geography/</guid>
+      <guid>https://andrewreeves.org/publication/political-geography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Public Opinion and Public Support in Crisis Management</title>
-      <link>http://localhost:64395/publication/crisis/</link>
+      <link>https://andrewreeves.org/publication/crisis/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64395/publication/crisis/</guid>
+      <guid>https://andrewreeves.org/publication/crisis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>U.S. Presidential Campaigns and Their Impact</title>
-      <link>http://localhost:64395/publication/electionsbib/</link>
+      <link>https://andrewreeves.org/publication/electionsbib/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64395/publication/electionsbib/</guid>
+      <guid>https://andrewreeves.org/publication/electionsbib/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Politics of Disaster Relief</title>
-      <link>http://localhost:64395/publication/disasters-review/</link>
+      <link>https://andrewreeves.org/publication/disasters-review/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64395/publication/disasters-review/</guid>
+      <guid>https://andrewreeves.org/publication/disasters-review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Recounts to Measure the Accuracy of Vote Tabulations: Evidence from New Hampshire Elections 1946-2002</title>
-      <link>http://localhost:64395/publication/recounts/</link>
+      <link>https://andrewreeves.org/publication/recounts/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64395/publication/recounts/</guid>
+      <guid>https://andrewreeves.org/publication/recounts/</guid>
       <description></description>
     </item>
     
