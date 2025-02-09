@@ -198,7 +198,7 @@
     <meta property="twitter:image" content="http://localhost:64395/media/icon_hu_9abe6d5f9300b5ff.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2023-08-31T00:00:00&#43;00:00" />
+      <meta property="og:updated_time" content="2023-03-14T00:00:00&#43;00:00" />
     
   
 
@@ -531,16 +531,66 @@
   
   
   
-  
-  
-  
-  
-  
-  
 
 
 
 
+
+
+
+<link type="text/css" rel="stylesheet" href="/dist/pagefind/pagefind-ui.be766eb419317a14ec769d216e9779bfe8f3737c80e780f4ba0dafb57a41a482.css" integrity="sha256-vnZutBkxehTsdp0hbpd5v&#43;jzc3yA54D0ug2vtXpBpII=" />
+
+
+<script src="/dist/pagefind/pagefind-ui.87693d7c6f2b3b347ce359d0ede762c033419f0a32b22ce508c335a81d841f1b.js" integrity="sha256-h2k9fG8rOzR841nQ7ediwDNBnwoysizlCMM1qB2EHxs="></script>
+
+
+<script>window.hbb.pagefind = {"baseUrl":"/"};</script>
+
+<style>
+  html.dark {
+    --pagefind-ui-primary: #eeeeee;
+    --pagefind-ui-text: #eeeeee;
+    --pagefind-ui-background: #152028;
+    --pagefind-ui-border: #152028;
+    --pagefind-ui-tag: #152028;
+  }
+</style>
+
+<script>
+  window.addEventListener('DOMContentLoaded', (event) => {
+    new PagefindUI({
+      element: "#search",
+      showSubResults: true,
+      baseUrl: window.hbb.pagefind.baseUrl,
+      bundlePath: window.hbb.pagefind.baseUrl + "pagefind/",
+    });
+  });
+  document.addEventListener('DOMContentLoaded', () => {
+    let element = document.getElementById('search');
+    let trigger = document.getElementById('search_toggle');
+
+    if (trigger) {
+      trigger.addEventListener('click', () => {
+        element.classList.toggle('hidden');
+        element.querySelector("input").value = ""
+        element.querySelector("input").focus()
+
+        if (!element.classList.contains('hidden')) {
+          let clear_trigger = document.querySelector('.pagefind-ui__search-clear');
+
+          if (clear_trigger && !clear_trigger.hasAttribute('listenerOnClick')) {
+            clear_trigger.setAttribute('listenerOnClick', 'true');
+
+            clear_trigger.addEventListener('click', () => {
+              element.classList.toggle('hidden');
+            });
+          }
+        }
+
+      });
+    }
+  });
+</script>
 
 
 
@@ -728,6 +778,13 @@
       
       
       
+      <button
+        aria-label="search"
+        class="text-black hover:text-primary  inline-block px-3 text-xl dark:text-white"
+        id="search_toggle">
+        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512" fill="currentColor"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg>
+      </button>
+      
 
       
       
@@ -741,6 +798,8 @@
   </nav>
 </header>
 
+
+<div id="search" class="hidden p-3"></div>
 
 
         
@@ -775,16 +834,16 @@
 
 
 
-<a href="/publication/mc-blame/"  class="mb-5">
+<a href="/publication/disunion-review/"  class="mb-5">
   <div class="md:flex">
     <div class="md:flex-shrink-0 overflow-hidden">
       
     </div>
     <div class="p-8">
-      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">If Trump took responsibility for coronavirus missteps, it might actually help him</div>
+      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">Review of The State of Disunion: Regional Sources of Modern American Partisanship by Nicole Mellow</div>
       <p class="block mt-1 text-sm leading-tight font-medium text-black dark:text-white">
         </p>
-      <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">Mar 1, 2020</p>
+      <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">Feb 1, 2009</p>
     </div>
   </div>
 </a>
@@ -799,20 +858,20 @@
 
 
 
-<a href="/publication/lines/"  class="mb-5">
+<a href="/publication/disasters-latimes-2/"  class="mb-5">
   <div class="md:flex">
     <div class="md:flex-shrink-0 overflow-hidden">
       
         
         
-      <img class="h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="/publication/lines/featured_hu_f3a2430f3fc99fae.gif" height="655" width="655" alt="Waiting to Vote in the 2016 Presidential Election: Evidence from a Multi-county Study">
+      <img class="h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="/publication/disasters-latimes-2/featured_hu_ec3e6fa6fec244d8.webp" height="655" width="655" alt="Florida Disaster Aid Can Help Bush">
       
     </div>
     <div class="p-8">
-      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">Waiting to Vote in the 2016 Presidential Election: Evidence from a Multi-county Study</div>
+      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">Florida Disaster Aid Can Help Bush</div>
       <p class="block mt-1 text-sm leading-tight font-medium text-black dark:text-white">
         </p>
-      <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">Jan 1, 2020</p>
+      <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">Oct 1, 2004</p>
     </div>
   </div>
 </a>
@@ -827,196 +886,20 @@
 
 
 
-<a href="/publication/caucus/"  class="mb-5">
+<a href="/publication/disasters-latimes-1/"  class="mb-5">
   <div class="md:flex">
     <div class="md:flex-shrink-0 overflow-hidden">
       
         
         
-      <img class="h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="/publication/caucus/featured_hu_a70a1042f7b88c87.webp" height="655" width="655" alt="Who Benefits from the Party Organization? Evidence from Republican House Members&#39; Attendance at Caucus Meetings">
+      <img class="h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="/publication/disasters-latimes-1/featured_hu_eecae5af959cdaf1.webp" height="655" width="655" alt="Plucking Votes From Disasters: The electoral clout of a state can sway presidents on aid">
       
     </div>
     <div class="p-8">
-      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">Who Benefits from the Party Organization? Evidence from Republican House Members&#39; Attendance at Caucus Meetings</div>
+      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">Plucking Votes From Disasters: The electoral clout of a state can sway presidents on aid</div>
       <p class="block mt-1 text-sm leading-tight font-medium text-black dark:text-white">
         </p>
-      <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">Feb 5, 2018</p>
-    </div>
-  </div>
-</a>
-
-  
-  
-
-
-
-
-
-
-
-
-<a href="/publication/constraints/"  class="mb-5">
-  <div class="md:flex">
-    <div class="md:flex-shrink-0 overflow-hidden">
-      
-    </div>
-    <div class="p-8">
-      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">The Public Cost of Unilateral Action</div>
-      <p class="block mt-1 text-sm leading-tight font-medium text-black dark:text-white">
-        </p>
-      <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">Jan 1, 2018</p>
-    </div>
-  </div>
-</a>
-
-  
-  
-
-
-
-
-
-
-
-
-<a href="/publication/polling/"  class="mb-5">
-  <div class="md:flex">
-    <div class="md:flex-shrink-0 overflow-hidden">
-      
-    </div>
-    <div class="p-8">
-      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">Pedagogical Value of Polling Place Observation By Students</div>
-      <p class="block mt-1 text-sm leading-tight font-medium text-black dark:text-white">
-        </p>
-      <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">Jan 1, 2018</p>
-    </div>
-  </div>
-</a>
-
-  
-  
-
-
-
-
-
-
-
-
-<a href="/publication/mc-puerto-rico/"  class="mb-5">
-  <div class="md:flex">
-    <div class="md:flex-shrink-0 overflow-hidden">
-      
-    </div>
-    <div class="p-8">
-      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">Donald Trump&#39;s lukewarm response to Puerto Rico was pretty predictable. Here&#39;s why</div>
-      <p class="block mt-1 text-sm leading-tight font-medium text-black dark:text-white">
-        </p>
-      <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">Oct 1, 2017</p>
-    </div>
-  </div>
-</a>
-
-  
-  
-
-
-
-
-
-
-
-
-<a href="/publication/commissions/"  class="mb-5">
-  <div class="md:flex">
-    <div class="md:flex-shrink-0 overflow-hidden">
-      
-    </div>
-    <div class="p-8">
-      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">Attitudes toward Delegation to Presidential Commissions</div>
-      <p class="block mt-1 text-sm leading-tight font-medium text-black dark:text-white">
-        </p>
-      <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">Jan 1, 2017</p>
-    </div>
-  </div>
-</a>
-
-  
-  
-
-
-
-
-
-
-
-
-<a href="/publication/senators/"  class="mb-5">
-  <div class="md:flex">
-    <div class="md:flex-shrink-0 overflow-hidden">
-      
-    </div>
-    <div class="p-8">
-      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">All the President&#39;s Senators: Presidential Co-Partisans and the Allocation of Federal Grants</div>
-      <p class="block mt-1 text-sm leading-tight font-medium text-black dark:text-white">
-        </p>
-      <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">Jan 1, 2017</p>
-    </div>
-  </div>
-</a>
-
-  
-  
-
-
-
-
-
-
-
-
-<a href="/publication/unilateral/"  class="mb-5">
-  <div class="md:flex">
-    <div class="md:flex-shrink-0 overflow-hidden">
-      
-        
-        
-      <img class="h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="/publication/unilateral/featured_hu_674ec7e28b0e26b7.gif" height="655" width="655" alt="Unilateral Powers, Public Opinion, and the Presidency">
-      
-    </div>
-    <div class="p-8">
-      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">Unilateral Powers, Public Opinion, and the Presidency</div>
-      <p class="block mt-1 text-sm leading-tight font-medium text-black dark:text-white">
-        </p>
-      <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">Jan 1, 2016</p>
-    </div>
-  </div>
-</a>
-
-  
-  
-
-
-
-
-
-
-
-
-<a href="/publication/prespower/"  class="mb-5">
-  <div class="md:flex">
-    <div class="md:flex-shrink-0 overflow-hidden">
-      
-        
-        
-      <img class="h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="/publication/prespower/featured_hu_9e54191fc679b5d8.webp" height="655" width="655" alt="Public Opinion toward Presidential Power">
-      
-    </div>
-    <div class="p-8">
-      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">Public Opinion toward Presidential Power</div>
-      <p class="block mt-1 text-sm leading-tight font-medium text-black dark:text-white">
-        </p>
-      <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">Oct 23, 2015</p>
+      <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">May 1, 2004</p>
     </div>
   </div>
 </a>
@@ -1032,8 +915,6 @@
     
     <li class="p-5"><a class="page-link" href="/publication_types/2/">&laquo; Previous</a></li>
     
-    
-    <li class="p-5"><a class="page-link" href="/publication_types/2/page/3/">Next &raquo;</a></li>
     
   </ul>
 </nav>

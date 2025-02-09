@@ -5,20 +5,12 @@
     <link>http://localhost:64395/publication_types/2/</link>
       <atom:link href="http://localhost:64395/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 31 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:64395/media/icon_hu_9abe6d5f9300b5ff.png</url>
       <title>2</title>
       <link>http://localhost:64395/publication_types/2/</link>
     </image>
-    
-    <item>
-      <title>Democratic Values and Support for Executive Power</title>
-      <link>http://localhost:64395/publication/values/</link>
-      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64395/publication/values/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Partisanship, Trump, and the Normative Implications of Presidential Particularism: A Response to Pasachoff’s Executive Branch Control of Federal Grants</title>
@@ -29,74 +21,10 @@
     </item>
     
     <item>
-      <title>Reconsidering Bellwether Locations in U.S. Presidential Elections</title>
-      <link>http://localhost:64395/publication/bellwether/</link>
-      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64395/publication/bellwether/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unilateral Inaction: Congressional Gridlock, Interbranch Conflict, and Public Evaluations of Executive Power</title>
-      <link>http://localhost:64395/publication/nothing/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64395/publication/nothing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Partisanship, Economic Assessments, and Presidential Accountability</title>
-      <link>http://localhost:64395/publication/transitions/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64395/publication/transitions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pass the Buck or the Buck Stops Here? The Public Costs of Claiming and Deflecting Blame in Managing Crises</title>
-      <link>http://localhost:64395/publication/blameclaim/</link>
-      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64395/publication/blameclaim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Crime and Presidential Accountability: A Case of Racially Conditioned Issue Ownership</title>
-      <link>http://localhost:64395/publication/crime/</link>
-      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64395/publication/crime/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Defining Racial and Ethnic Context with Geolocation Data</title>
-      <link>http://localhost:64395/publication/context/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64395/publication/context/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Local Unemployment and Voting for President: Uncovering Causal Mechanisms</title>
-      <link>http://localhost:64395/publication/unemployment/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64395/publication/unemployment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>If Trump took responsibility for coronavirus missteps, it might actually help him</title>
       <link>http://localhost:64395/publication/mc-blame/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:64395/publication/mc-blame/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Urban-Rural Gulf in American Political Behavior</title>
-      <link>http://localhost:64395/publication/urbanrural/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64395/publication/urbanrural/</guid>
       <description></description>
     </item>
     
@@ -117,14 +45,6 @@
     </item>
     
     <item>
-      <title>Pedagogical Value of Polling Place Observation By Students</title>
-      <link>http://localhost:64395/publication/polling/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64395/publication/polling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The Public Cost of Unilateral Action</title>
       <link>http://localhost:64395/publication/constraints/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -141,74 +61,10 @@
     </item>
     
     <item>
-      <title>All the President&#39;s Senators: Presidential Co-Partisans and the Allocation of Federal Grants</title>
-      <link>http://localhost:64395/publication/senators/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64395/publication/senators/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Attitudes toward Delegation to Presidential Commissions</title>
       <link>http://localhost:64395/publication/commissions/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:64395/publication/commissions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unilateral Powers, Public Opinion, and the Presidency</title>
-      <link>http://localhost:64395/publication/unilateral/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64395/publication/unilateral/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Presidential Particularism in Disaster Declarations and Military Base Closures</title>
-      <link>http://localhost:64395/publication/prespart/</link>
-      <pubDate>Fri, 23 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64395/publication/prespart/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Public Opinion toward Presidential Power</title>
-      <link>http://localhost:64395/publication/prespower/</link>
-      <pubDate>Fri, 23 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64395/publication/prespower/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Presidential Particularism and Divide-the-Dollar Politics</title>
-      <link>http://localhost:64395/publication/targeting/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64395/publication/targeting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Taking the Leap: Voting, Rhetoric, and the Determinants of Electoral Reform</title>
-      <link>http://localhost:64395/publication/leap/</link>
-      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64395/publication/leap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Responsive Partisanship: Public Support for the Clinton and Obama Health Care Plans</title>
-      <link>http://localhost:64395/publication/healthcare/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64395/publication/healthcare/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Driving Support: Workers, PACs, and Congressional Support of the Auto Industry</title>
-      <link>http://localhost:64395/publication/autos/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64395/publication/autos/</guid>
       <description></description>
     </item>
     
@@ -225,22 +81,6 @@
       <link>http://localhost:64395/publication/disasters-reuters/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
       <guid>http://localhost:64395/publication/disasters-reuters/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Influence of Federal Spending on Presidential Elections</title>
-      <link>http://localhost:64395/publication/spending/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64395/publication/spending/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Make it Rain? Retrospection and the Attentive Electorate in the Context of Natural Disasters</title>
-      <link>http://localhost:64395/publication/rain/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64395/publication/rain/</guid>
       <description></description>
     </item>
     
@@ -273,14 +113,6 @@
       <link>http://localhost:64395/publication/disasters-latimes-1/</link>
       <pubDate>Sat, 01 May 2004 00:00:00 +0000</pubDate>
       <guid>http://localhost:64395/publication/disasters-latimes-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Reassessment of `The Methods behind the Madness: Presidential Electoral College Strategies, 1988--1996&#39;</title>
-      <link>http://localhost:64395/publication/reassessment/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64395/publication/reassessment/</guid>
       <description></description>
     </item>
     
