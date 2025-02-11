@@ -1,4 +1,7 @@
 ---
+aliases:
+    - research/rising-seas-rising-concerns-how-climate-change-vulnerability-shapes-opinions-towards-policy/
+
 title: "Rising Seas, Rising Concerns: How Climate Change Vulnerability Shapes Opinions Towards Policy"
 date: 2025-01-15
 authors: 
