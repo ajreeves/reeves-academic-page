@@ -1,4 +1,7 @@
 ---
+aliases:
+    - research/the-urban-rural-gulf-in-american-political-behavior/
+    
 title: "The Urban-Rural Gulf in American Political Behavior"
 date: 2020-03-01
 authors: ["James G. Gimpel", "Nathan Lovin", "Bryant Moy", admin]

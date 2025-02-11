@@ -1,5 +1,6 @@
 # Netlify redirects
 # Automatically generated
 # Documentation: https://docs.netlify.com/routing/redirects/
+/research/the-urban-rural-gulf-in-american-political-behavior/ /publication/urbanrural/
 /sites/default/files/rain.pdf /publication/rain/
 /sites/default/files/fema.pdf /publication/fema/
