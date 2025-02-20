@@ -1,4 +1,7 @@
 ---
+aliases:
+    - research/guardians-at-the-gates-poll-worker-retention-in-a-challenging-election-environment/
+
 title: "Guardians at the Gates: Poll Worker Retention in a Challenging Election Environment"
 date: 2024-09-01
 authors: ["Robert M. Stein", "Barry C. Burden", "Gayle Alberda", "Lonna Atkeson", "Lisa Bryant", "Rachel Cobb", "Michael Gilbert", "Josh Hostetter", "David C. Kimball", "Matthew Lamb", "Kenneth R. Mayer", "Costas Panagopoulos", admin, "Corwin Smidt", "Jennifer Victor"]
