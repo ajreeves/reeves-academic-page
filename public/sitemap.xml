@@ -34,6 +34,14 @@
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://andrewreeves.org/talks/bullard/</loc>
+    <lastmod>2024-09-29T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://andrewreeves.org/talks/</loc>
+    <lastmod>2024-09-29T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://andrewreeves.org/teaching/intro/</loc>
     <lastmod>2024-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -62,12 +70,20 @@
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://andrewreeves.org/talks/chen/</loc>
+    <lastmod>2024-01-25T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://andrewreeves.org/publication/attachment/</loc>
     <lastmod>2023-10-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://andrewreeves.org/publication/values/</loc>
     <lastmod>2023-08-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://andrewreeves.org/talks/noblankcheck/</loc>
+    <lastmod>2023-07-23T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://andrewreeves.org/publication/pasachoff-reply/</loc>
