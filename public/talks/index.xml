@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Andrew Reeves</title>
-    <link>https://andrewreeves.org/talks/</link>
-      <atom:link href="https://andrewreeves.org/talks/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/talks/</link>
+      <atom:link href="http://localhost:1313/talks/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 Sep 2024 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://andrewreeves.org/media/icon_hu_9abe6d5f9300b5ff.png</url>
+      <url>http://localhost:1313/media/icon_hu_9abe6d5f9300b5ff.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://andrewreeves.org/talks/</link>
+      <link>http://localhost:1313/talks/</link>
     </image>
     
     <item>
       <title>A Fireside Chat with Dr. James Bullard</title>
-      <link>https://andrewreeves.org/talks/bullard/</link>
+      <link>http://localhost:1313/talks/bullard/</link>
       <pubDate>Sun, 29 Sep 2024 13:00:00 +0000</pubDate>
-      <guid>https://andrewreeves.org/talks/bullard/</guid>
+      <guid>http://localhost:1313/talks/bullard/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Outlook for the U.S. Economy and Monetary Policy-A Conversation with Governor of the Federal Reserve Board, Adriana D. Kugler</title>
-      <link>https://andrewreeves.org/talks/kugler/</link>
+      <link>http://localhost:1313/talks/kugler/</link>
       <pubDate>Wed, 03 Apr 2024 13:00:00 +0000</pubDate>
-      <guid>https://andrewreeves.org/talks/kugler/</guid>
+      <guid>http://localhost:1313/talks/kugler/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Conversation with Lanhee J. Chen</title>
-      <link>https://andrewreeves.org/talks/chen/</link>
+      <link>http://localhost:1313/talks/chen/</link>
       <pubDate>Thu, 25 Jan 2024 13:00:00 +0000</pubDate>
-      <guid>https://andrewreeves.org/talks/chen/</guid>
+      <guid>http://localhost:1313/talks/chen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>No Blank Check--Why Americans Don’t like Presidential Power and What it Means for Politics</title>
-      <link>https://andrewreeves.org/talks/noblankcheck/</link>
+      <link>http://localhost:1313/talks/noblankcheck/</link>
       <pubDate>Sun, 23 Jul 2023 13:00:00 +0000</pubDate>
-      <guid>https://andrewreeves.org/talks/noblankcheck/</guid>
+      <guid>http://localhost:1313/talks/noblankcheck/</guid>
       <description></description>
     </item>
     

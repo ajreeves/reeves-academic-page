@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Book | Andrew Reeves</title>
-    <link>https://andrewreeves.org/publication_types/book/</link>
-      <atom:link href="https://andrewreeves.org/publication_types/book/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication_types/book/</link>
+      <atom:link href="http://localhost:1313/publication_types/book/index.xml" rel="self" type="application/rss+xml" />
     <description>Book</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://andrewreeves.org/media/icon_hu_9abe6d5f9300b5ff.png</url>
+      <url>http://localhost:1313/media/icon_hu_9abe6d5f9300b5ff.png</url>
       <title>Book</title>
-      <link>https://andrewreeves.org/publication_types/book/</link>
+      <link>http://localhost:1313/publication_types/book/</link>
     </image>
     
     <item>
       <title>No Blank Check: The Origins and Consequences of Public Antipathy towards Presidential Power</title>
-      <link>https://andrewreeves.org/publication/noblankcheck/</link>
+      <link>http://localhost:1313/publication/noblankcheck/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://andrewreeves.org/publication/noblankcheck/</guid>
+      <guid>http://localhost:1313/publication/noblankcheck/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Particularistic President: Executive Branch Politics and Political Inequality</title>
-      <link>https://andrewreeves.org/publication/partpres/</link>
+      <link>http://localhost:1313/publication/partpres/</link>
       <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://andrewreeves.org/publication/partpres/</guid>
+      <guid>http://localhost:1313/publication/partpres/</guid>
       <description></description>
     </item>
     

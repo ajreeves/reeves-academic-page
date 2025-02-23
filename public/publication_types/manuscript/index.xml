@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manuscript | Andrew Reeves</title>
-    <link>https://andrewreeves.org/publication_types/manuscript/</link>
-      <atom:link href="https://andrewreeves.org/publication_types/manuscript/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication_types/manuscript/</link>
+      <atom:link href="http://localhost:1313/publication_types/manuscript/index.xml" rel="self" type="application/rss+xml" />
     <description>Manuscript</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://andrewreeves.org/media/icon_hu_9abe6d5f9300b5ff.png</url>
+      <url>http://localhost:1313/media/icon_hu_9abe6d5f9300b5ff.png</url>
       <title>Manuscript</title>
-      <link>https://andrewreeves.org/publication_types/manuscript/</link>
+      <link>http://localhost:1313/publication_types/manuscript/</link>
     </image>
     
     <item>
       <title>Elections and Representation in American Municipal Administration</title>
-      <link>https://andrewreeves.org/publication/clerks/</link>
+      <link>http://localhost:1313/publication/clerks/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewreeves.org/publication/clerks/</guid>
+      <guid>http://localhost:1313/publication/clerks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>By All Means: How Issue Popularity Emboldens Presidential Power</title>
-      <link>https://andrewreeves.org/publication/popularity/</link>
+      <link>http://localhost:1313/publication/popularity/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://andrewreeves.org/publication/popularity/</guid>
+      <guid>http://localhost:1313/publication/popularity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Reassessment of Presidential Campaign Strategy Formation and Candidate Resource Allocation</title>
-      <link>https://andrewreeves.org/publication/reassessment-long/</link>
+      <link>http://localhost:1313/publication/reassessment-long/</link>
       <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
-      <guid>https://andrewreeves.org/publication/reassessment-long/</guid>
+      <guid>http://localhost:1313/publication/reassessment-long/</guid>
       <description></description>
     </item>
     

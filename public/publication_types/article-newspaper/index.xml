@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Article-Newspaper | Andrew Reeves</title>
-    <link>https://andrewreeves.org/publication_types/article-newspaper/</link>
-      <atom:link href="https://andrewreeves.org/publication_types/article-newspaper/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication_types/article-newspaper/</link>
+      <atom:link href="http://localhost:1313/publication_types/article-newspaper/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Newspaper</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://andrewreeves.org/media/icon_hu_9abe6d5f9300b5ff.png</url>
+      <url>http://localhost:1313/media/icon_hu_9abe6d5f9300b5ff.png</url>
       <title>Article-Newspaper</title>
-      <link>https://andrewreeves.org/publication_types/article-newspaper/</link>
+      <link>http://localhost:1313/publication_types/article-newspaper/</link>
     </image>
     
     <item>
       <title>If Trump took responsibility for coronavirus missteps, it might actually help him</title>
-      <link>https://andrewreeves.org/publication/mc-blame/</link>
+      <link>http://localhost:1313/publication/mc-blame/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://andrewreeves.org/publication/mc-blame/</guid>
+      <guid>http://localhost:1313/publication/mc-blame/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Donald Trump&#39;s lukewarm response to Puerto Rico was pretty predictable. Here&#39;s why</title>
-      <link>https://andrewreeves.org/publication/mc-puerto-rico/</link>
+      <link>http://localhost:1313/publication/mc-puerto-rico/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://andrewreeves.org/publication/mc-puerto-rico/</guid>
+      <guid>http://localhost:1313/publication/mc-puerto-rico/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Disasters Change Elections</title>
-      <link>https://andrewreeves.org/publication/disasters-reuters/</link>
+      <link>http://localhost:1313/publication/disasters-reuters/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://andrewreeves.org/publication/disasters-reuters/</guid>
+      <guid>http://localhost:1313/publication/disasters-reuters/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Florida Disaster Aid Can Help Bush</title>
-      <link>https://andrewreeves.org/publication/disasters-latimes-2/</link>
+      <link>http://localhost:1313/publication/disasters-latimes-2/</link>
       <pubDate>Fri, 01 Oct 2004 00:00:00 +0000</pubDate>
-      <guid>https://andrewreeves.org/publication/disasters-latimes-2/</guid>
+      <guid>http://localhost:1313/publication/disasters-latimes-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plucking Votes From Disasters: The electoral clout of a state can sway presidents on aid</title>
-      <link>https://andrewreeves.org/publication/disasters-latimes-1/</link>
+      <link>http://localhost:1313/publication/disasters-latimes-1/</link>
       <pubDate>Sat, 01 May 2004 00:00:00 +0000</pubDate>
-      <guid>https://andrewreeves.org/publication/disasters-latimes-1/</guid>
+      <guid>http://localhost:1313/publication/disasters-latimes-1/</guid>
       <description></description>
     </item>
     

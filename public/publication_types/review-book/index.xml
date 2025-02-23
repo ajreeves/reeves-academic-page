@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Review-Book | Andrew Reeves</title>
-    <link>https://andrewreeves.org/publication_types/review-book/</link>
-      <atom:link href="https://andrewreeves.org/publication_types/review-book/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication_types/review-book/</link>
+      <atom:link href="http://localhost:1313/publication_types/review-book/index.xml" rel="self" type="application/rss+xml" />
     <description>Review-Book</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://andrewreeves.org/media/icon_hu_9abe6d5f9300b5ff.png</url>
+      <url>http://localhost:1313/media/icon_hu_9abe6d5f9300b5ff.png</url>
       <title>Review-Book</title>
-      <link>https://andrewreeves.org/publication_types/review-book/</link>
+      <link>http://localhost:1313/publication_types/review-book/</link>
     </image>
     
     <item>
       <title>Review of The Unheavenly Chorus: Unequal Political Voice and the Broken Promise of Democracy by Kay Lehman Schlozman, Sidney Verba, and Henry E. Brady</title>
-      <link>https://andrewreeves.org/publication/unheavenly-review/</link>
+      <link>http://localhost:1313/publication/unheavenly-review/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://andrewreeves.org/publication/unheavenly-review/</guid>
+      <guid>http://localhost:1313/publication/unheavenly-review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Review of The State of Disunion: Regional Sources of Modern American Partisanship by Nicole Mellow</title>
-      <link>https://andrewreeves.org/publication/disunion-review/</link>
+      <link>http://localhost:1313/publication/disunion-review/</link>
       <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
-      <guid>https://andrewreeves.org/publication/disunion-review/</guid>
+      <guid>http://localhost:1313/publication/disunion-review/</guid>
       <description></description>
     </item>
     
