@@ -12,7 +12,7 @@ address:
   postcode: '63130'
   country: United States
 
-summary: The Outlook for the U.S. Economy and Monetary Policy: A Conversation with Governor of the Federal Reserve Board, Adriana D. Kugler
+summary: The Outlook for the U.S. Economy and Monetary Policy
 abstract: Dr. Adriana D. Kugler took office as a member of the Board of Governors of the Federal Reserve System on September 13, 2023. She is currently on leave from Georgetown University where she is a professor of Public Policy and Economics and was vice provost for faculty. Prior to her appointment at the Board, Dr. Kugler served as U.S. Executive Director at the World Bank Group. Previously, she served as chief economist at the U.S. Department of Labor from 2011-2013. Dr. Kugler was also a research associate of the National Bureau of Economic Research and of the Center for the Study of Poverty and Inequality at Stanford University.
 
 # Talk start and end times.
