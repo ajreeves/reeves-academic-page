@@ -31,7 +31,7 @@ organizations:
 - name: Hoover Institution
   url: "https://www.hoover.org"
 - name: Washington University School of Law
-  url: https://law.washu.edu/
+  url: "https://law.washu.edu/"
 - name: Taylor Geospatial Institute
   url: "https://taylorgeospatial.org/"
 - name: Center for the Environment @ WashU
@@ -39,7 +39,7 @@ organizations:
 - name: Division of Computational and Data Sciences @ WashU
   url: "https://datasciences.wustl.edu"
 - name: Center for the Study of Race, Ethnicity & Equity @ WashU
-  url: https://cre2.wustl.edu/
+  url: "https://cre2.wustl.edu/"
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
