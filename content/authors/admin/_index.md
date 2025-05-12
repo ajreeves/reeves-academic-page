@@ -80,7 +80,7 @@ education:
 ---
 ## Welcome
 
-**Andrew Reeves** is Director of the [Weidenbaum Center on the Economy, Government, and Public Policy](http://wc.wustl.edu), Professor of [Political Science](http://polisci.wustl.edu), and Professor of Law (by courtesy) at [Washington University in St. Louis](http://www.wustl.edu). He is also a Visiting Fellow at the [Hoover Institution](https://www.hoover.org).
+**Andrew Reeves** is Director of the [Weidenbaum Center on the Economy, Government, and Public Policy](http://wc.wustl.edu), Professor of [Political Science](http://polisci.wustl.edu), and [Professor of Law](http://law.wustl.edu) (by courtesy) at [Washington University in St. Louis](http://www.wustl.edu). He is also a Visiting Fellow at the [Hoover Institution](https://www.hoover.org).
 
 Reeves’s research focuses on American political institutions, electoral behavior, and public policy, with particular emphasis on the presidency and executive power. He studies how political accountability and institutional design shape governance, policy outcomes, and voter behavior. His work shows that presidents frequently pursue partisan and electoral goals, that the public holds well-defined views on presidential power, and that local context plays a powerful role in shaping political behavior. 
 
