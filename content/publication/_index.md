@@ -3,10 +3,10 @@ title: Publications
 cms_exclude: true
 
 # View.
-view: citation
+# Note: The 'view' option is now nested under the 'design' block.
+design:
+  view: citation
+  # Show all publications on one page by setting a large pagination number.
+  pagination: 9999
 
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
 ---
