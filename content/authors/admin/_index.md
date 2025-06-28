@@ -20,7 +20,8 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 
+role: Professor of Political Science
+role: Director of the Weidenbaum Center
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
