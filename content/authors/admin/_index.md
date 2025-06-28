@@ -20,18 +20,20 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Professor of Political Science
-role: Director of the Weidenbaum Center
+role: Professor of Political Science @ WashU
+role: Director of the Weidenbaum Center @ WashU
+role: Professor (by courtesy) @ WashU Law
+role: Visiting Fellow @ the Hoover Institution
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-- name: Professor of Political Science, Washington University in St. Louis
+- name: Washington University in St. Louis
   url: "http://www.wustl.edu"
-- name: Director, Weidenbaum Center on the Economy, Government, and Public Policy
+- name: Weidenbaum Center on the Economy, Government, and Public Policy
   url: "http://wc.wustl.edu"
-- name: Visiting Fellow, Hoover Institution
+- name: Hoover Institution
   url: "https://www.hoover.org"
-- name: Professor (by Courtesy), Washington University School of Law
+- name: Washington University School of Law
   url: "https://law.washu.edu/"
 
 # Social network links
