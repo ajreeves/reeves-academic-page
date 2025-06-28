@@ -21,9 +21,6 @@ highlight_name: true
 
 # Role/position/tagline
 role: Professor of Political Science @ WashU
-role: Director of the Weidenbaum Center @ WashU
-role: Professor (by courtesy) @ WashU Law
-role: Visiting Fellow @ the Hoover Institution
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
