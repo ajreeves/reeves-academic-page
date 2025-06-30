@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Director of the Weidenbaum Center and Professor of Political Science
+role: Professor of Political Science @ WashU
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -28,10 +28,10 @@ organizations:
   url: "http://www.wustl.edu"
 - name: Weidenbaum Center on the Economy, Government, and Public Policy
   url: "http://wc.wustl.edu"
-- name: Taylor Geospatial Institute
-  url: "https://taylorgeospatial.org/"
 - name: Hoover Institution
   url: "https://www.hoover.org"
+- name: Washington University School of Law
+  url: "https://law.washu.edu/"
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -72,8 +72,8 @@ education:
 ---
 ## Welcome
 
-Andrew Reeves is the director of the [Weidenbaum Center on the Economy, Government, and Public Policy](http://wc.wustl.edu) and professor of [political science](http://polisci.wustl.edu) at [Washington University in St. Louis](http://www.wustl.edu). He is also a Visiting Fellow at the [Hoover Institution](https://www.hoover.org) and an associate of the [Taylor Geospatial Institute](https://taylorgeospatial.org/). At WashU, he is an affiliate of the [Center for the Environment](https://environment.wustl.edu/), the [Division of Computational and Data Sciences](https://datasciences.wustl.edu), and the [Center for the Study of Race, Ethnicity & Equity](https://cre2.wustl.edu/). He has previously held research fellowships at the [Hoover Institution](https://www.hoover.org) at [Stanford University](https://stanford.edu) and at the [Center for the Study of American Politics](https://csap.yale.edu) at [Yale University](https://yale.edu).
+**Andrew Reeves** is Director of the [Weidenbaum Center on the Economy, Government, and Public Policy](http://wc.wustl.edu), Professor of [Political Science](http://polisci.wustl.edu), and [Professor of Law](http://law.wustl.edu) (by courtesy) at [Washington University in St. Louis](http://www.wustl.edu). He is also a Visiting Fellow at the [Hoover Institution](https://www.hoover.org).
 
-His research explores the connections between American political institutions, electoral behavior, and public policy, with a particular focus on the presidency and executive politics. He examines how political accountability and institutional design shape governance and policy outcomes, contributing to our understanding of presidential power, voter behavior, and the urban-rural divide. Reeves’ work shows that modern presidents often prioritize partisan and electoral interests, challenges the idea that the public is indifferent to executive power, and investigates the forces behind political polarization. His current research examines government responses and public opinion on climate crises and local governance, analyzing how local contexts and institutions shape public policy and democratic representation.
+Reeves’s research focuses on American political institutions, electoral behavior, and public policy, with particular emphasis on the presidency and executive power. He studies how political accountability and institutional design shape governance, policy outcomes, and voter behavior. His work shows that presidents frequently pursue partisan and electoral goals, that the public holds well-defined views on presidential power, and that local context plays a powerful role in shaping political behavior. 
 
-His most recent book, [_No Blank Check: The Origins and Consequences of Public Antipathy towards Presidential Power_](https://andrewreeves.org/research/no-blank-check-the-origins-and-consequences-of-public-antipathy-towards-presidential-power/) with [Jon C. Rogowski](https://voices.uchicago.edu/jrogowski/) was published in 2022 with Cambridge University Press ( [Amazon](https://www.amazon.com/Blank-Check-Consequences-Antipathy-Presidential/dp/1107174309/ref=sr_1_2?qid=1646002322&refinements=p_27%3AJon+C.+Rogowski&s=books&sr=1-2) | [CUP](https://www.cambridge.org/core/books/no-blank-check/0FE4E2FC0D017DC70566FDFE94B89007)). His first book, [_The Particularistic President: Executive Branch Politics and Political Inequality_](https://andrewreeves.org/research/the-particularistic-president-executive-branch-politics-and-political-inequality/) with [Douglas Kriner](http://blogs.cornell.edu/kriner/) is the winner of the 2016 Richard E. Neustadt Award ( [Amazon](https://www.amazon.com/Douglas-L-Kriner/dp/1107616816/) | [CUP](https://www.cambridge.org/core/books/particularistic-president/1C2686B436BCBFAB3D46EDBD7C2A17C3)). 
+He is the coauthor of two books. [*No Blank Check: The Origins and Consequences of Public Antipathy toward Presidential Power*](https://andrewreeves.org/publication/noblankcheck/) (Cambridge University Press, 2022), with [Jon C. Rogowski](https://voices.uchicago.edu/jrogowski/), investigates how Americans think about executive authority. [*The Particularistic President: Executive Branch Politics and Political Inequality*](https://andrewreeves.org/publication/partpres/) (Cambridge University Press), coauthored with [Douglas Kriner](http://blogs.cornell.edu/kriner/), received the 2016 Richard E. Neustadt Award from the American Political Science Association.
