@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  mode: light
-  color: washu-green
+  theme_day: my-theme
+  theme_night: my-theme  # or create a separate dark version
 
 # SEO
 marketing:

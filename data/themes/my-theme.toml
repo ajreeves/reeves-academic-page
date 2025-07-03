@@ -1,0 +1,42 @@
+# Theme metadata
+name = "My Custom Theme"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#1a472a"  # Your university green
+
+# Menu
+menu_primary = "#1a472a"
+menu_text = "#ffffff"
+menu_text_active = "#ffd700"
+menu_title = "#ffffff"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
+
+# Background
+background = "rgb(255, 255, 255)"
+
+# Text
+text = "rgb(33, 37, 41)"
+text_light = "rgb(73, 80, 87)"
+
+# Links
+link = "#1a472a"
+link_hover = "#0f2e17"
+
+# Buttons
+btn_primary = "#1a472a"
+btn_primary_hover = "#0f2e17"
+btn_outline = "#1a472a"
+btn_outline_hover = "#0f2e17"
+
+# Borders
+border = "rgba(0, 0, 0, 0.125)"
+border_light = "rgba(0, 0, 0, 0.05)"
+
+# Code syntax highlighting
+code_highlighting = "github"  # or dracula, github-dark, etc.
